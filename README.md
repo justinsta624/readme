@@ -193,36 +193,29 @@ to address the following:
 
 ## Source Information
 
-1. [Bootstrap]
+1. ![Bootstrap](https://img.shields.io/badge/FrontendFrameworks-Bootstrap-blueviolet)
 (https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css)
 (https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js)
 (https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css)
 (https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js)
 
-```   
-2. JQuery
- "https://code.jquery.com/jquery-3.4.1.min.js";
- "https://code.jquery.com/jquery-3.6.0.min.js";
- "https://code.jquery.com/jquery-3.7.1.min.js";
-```
-```   
-3. Youtube API
- "https://www.googleapis.com/youtube/v3/search?part=snippet&q=${encodeURIComponent(query)} trailer&key=${apiKey}&maxResults=${maxResults}&type=video";
- "https://www.googleapis.com/youtube/v3/videos?id=${videoId}&part=contentDetails&key=${apiKey}";
- "https://www.youtube.com/embed/${videoId}?start=${startTime}&autoplay=1";
-```
-```
-4. OMDb API
- "https://www.omdbapi.com/?apikey=${omdbApiKey}&s=${searchTerm}";
- "https://www.omdbapi.com/?i=${movie.dataset.id}&apikey=7b82484f";
- "https://omdbapi.com/?s=${searchTerm}&page=1&apikey=7b82484";
-```
-```
-5. Google Fonts
- "https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap";
-```
-```
-6. API Keys
- omdbApiKey = '7b82484f';
- youtubeApiKey = 'AIzaSyCd2r7TY9q5D4-3SayVQpKcYuM6mkdLdBg';
-```
+2. ![JQuery](https://img.shields.io/badge/JavascriptUILibraries-JQuery-red)
+ (https://code.jquery.com/jquery-3.4.1.min.js)
+ (https://code.jquery.com/jquery-3.6.0.min.js)
+ (https://code.jquery.com/jquery-3.7.1.min.js)
+
+3. ![API](https://img.shields.io/badge/API-Youtube-fcba03)
+   youtubeApiKey = 'AIzaSyCd2r7TY9q5D4-3SayVQpKcYuM6mkdLdBg'
+ (https://www.googleapis.com/youtube/v3/search?part=snippet&q=${encodeURIComponent(query)} trailer&key=${apiKey}&maxResults=${maxResults}&type=video)
+ (https://www.googleapis.com/youtube/v3/videos?id=${videoId}&part=contentDetails&key=${apiKey})
+ (https://www.youtube.com/embed/${videoId}?start=${startTime}&autoplay=1)
+
+4. ![API](https://img.shields.io/badge/API-OMDb-indigo)
+   omdbApiKey = '7b82484f'
+ (https://www.omdbapi.com/?apikey=${omdbApiKey}&s=${searchTerm})
+ (https://www.omdbapi.com/?i=${movie.dataset.id}&apikey=7b82484f)
+ (https://omdbapi.com/?s=${searchTerm}&page=1&apikey=7b82484f)
+
+5. ![GoogleFont](https://img.shields.io/badge/Font-GoogleAPI-purple)
+ (https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap")
+
