@@ -1,9 +1,11 @@
 # Content-Based-Movie-Recommender-System-with-sentiment-analysis-using-AJAX
 
-![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
-![Framework](https://img.shields.io/badge/Framework-Flask-red)
-![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
-![API](https://img.shields.io/badge/API-TMDB-fcba03)
+![Bootstrap](https://img.shields.io/badge/FrontendFrameworks-Bootstrap-blueviolet)
+![JQuery](https://img.shields.io/badge/JavascriptUILibraries-JQuery-red)
+![HTML/CSS](https://img.shields.io/badge/StructureStyle-HTML/CSS-green)
+![JAVASCRIPT](https://img.shields.io/badge/Function-JavaScript-magenta)
+![API](https://img.shields.io/badge/API-Youtube-fcba03)
+![API](https://img.shields.io/badge/API-OMDb-indigo)
 
 **Updated version of this application can be found at:** https://github.com/kishan0725/The-Movie-Cinema
 
