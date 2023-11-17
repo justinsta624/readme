@@ -44,38 +44,40 @@ that show movies but also sites that offer specific space to be able to view and
 trailers that match their taste.
 
 Adding and partnering with movie streamers or potentially starting our own with a subscription would
-be a great way to further enhance this project. Movie trailers are also a great way to engage and captivate
-user audiences pulling them into their own movie world. Our website and our motivation also lies in the great
-diversity within our site.
+be a great way to further enhance this project. Movie trailers are also a great way to engage and
+captivate user audiences pulling them into their own movie world. Our website and our motivation also
+lies in the great diversity within our site.
 
-Allowing discover films they might have otherwise never known existed, or a genre they might like which they
-had not thought about. With today’s consumer behavior of preferring bite size and visually appealing content,
-our website is ideal as it allows users to watch trailers and decide on their own weather they’d like to go
-view this movie.
+Allowing discover films they might have otherwise never known existed, or a genre they might like
+which they had not thought about. With today’s consumer behavior of preferring bite size and visually
+appealing content, our website is ideal as it allows users to watch trailers and decide on their own
+weather they’d like to go view this movie.
 
 Another reason for this project is by adding these external API’s, alongside with meeting project
-requirements, we’ve been able to integrate high quality content for users and allows them to find exactly
-what they are looking for.
+requirements, we’ve been able to integrate high quality content for users and allows them to find
+exactly what they are looking for.
 ```
 
 ## User Story
 
 ```
-Being the movie enthusiasts that we are, we were aiming to create a website that makes it easier for us
-to view and easily navigate through an extensive collection of movies to pick and chose.
+Being the movie enthusiasts that we are, we were aiming to create a website that makes it easier for
+us to view and easily navigate through an extensive collection of movies to pick and chose.
 
-We also wanted a way to save possible movies into local storage to be able to revisit them at our own
-convenience, for when we obtain a chance to view and watch a movie.This website allows me curated section
-for my chosen trailers, allowing me to save and revisit at my own discretion. It enables me to easily explore
-endless movies, many unheard of, all while keeping the website engaging.
+We also wanted a way to save possible movies into local storage to be able to revisit them at our
+own convenience, for when we obtain a chance to view and watch a movie.This website allows me curated
+section
+for my chosen trailers, allowing me to save and revisit at my own discretion. It enables me to easily
+explore endless movies, many unheard of, all while keeping the website engaging.
 ```
 
 ## Project Requirements
 
 ```
-You and your group will use everything you’ve learned over the past six modules to create a real-world
-front-end application that you’ll be able to showcase to potential employers. The user story and acceptance
-criteria will depend on the project that you create, but your project must fulfil the following requirements:
+You and your group will use everything you’ve learned over the past six modules to create a
+real-world front-end application that you’ll be able to showcase to potential employers.
+The user story and acceptance criteria will depend on the project that you create,
+but your project must fulfil the following requirements:
 
 * Use a CSS framework other than Bootstrap.
 * Be deployed to GitHub Pages.
@@ -87,15 +89,17 @@ criteria will depend on the project that you create, but your project must fulfi
 * Be responsive.
 * Have a polished UI.
 * Have a clean repository that meets quality coding standards
-  (file structure, naming conventions, follows class/id naming conventions, indentation, quality comments, etc.).
-* Have a quality README (unique name, description, technologies, screenshot, and link to deployed application).
+  (file structure, naming, follows class/id naming, indentation, quality comments, etc.).
+* Have a quality README (unique name, description, technologies, screenshot, and deployed application).
 ```
 
 ## Presentation Requirements
 
 ```
 Use this [project presentation template]
-(https://docs.google.com/presentation/d/10QaO9KH8HtUXj__81ve0SZcpO5DbMbqqQr4iPpbwKks/edit?usp=sharing) to address the following: 
+(https://docs.google.com/presentation/d/10QaO9KH8HtUXj__81ve0SZcpO5DbMbqqQr4iPpbwKks/edit?usp=sharing)
+
+to address the following: 
 
 * Elevator pitch: a one minute description of your application
 * Concept: What is your user story? What was your motivation for development?
@@ -107,6 +111,7 @@ Use this [project presentation template]
 ```
 
 ## Technologies used 
+
 
 ## Source Information
 ```
