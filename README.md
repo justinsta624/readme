@@ -194,26 +194,26 @@ to address the following:
 ## Source Information
 
 1. ![Bootstrap](https://img.shields.io/badge/FrontendFrameworks-Bootstrap-blueviolet)
-(https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css)
-(https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js)
-(https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css)
-(https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js)
+<br />(https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css)
+<br />(https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js)
+<br />(https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css)
+<br />(https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js)
 
-2. ![JQuery](https://img.shields.io/badge/JavascriptUILibraries-JQuery-red)
+3. ![JQuery](https://img.shields.io/badge/JavascriptUILibraries-JQuery-red)
  (https://code.jquery.com/jquery-3.4.1.min.js)
  (https://code.jquery.com/jquery-3.6.0.min.js)
  (https://code.jquery.com/jquery-3.7.1.min.js)
 
-3. ![APIKEY](https://img.shields.io/badge/APIKEY-Youtube-fcba03) = AIzaSyCd2r7TY9q5D4-3SayVQpKcYuM6mkdLdBg
+4. ![APIKEY](https://img.shields.io/badge/APIKEY-Youtube-fcba03) = AIzaSyCd2r7TY9q5D4-3SayVQpKcYuM6mkdLdBg
  (https://www.googleapis.com/youtube/v3/search?part=snippet&q=${encodeURIComponent(query)} trailer&key=${apiKey}&maxResults=${maxResults}&type=video)
  (https://www.googleapis.com/youtube/v3/videos?id=${videoId}&part=contentDetails&key=${apiKey})
  (https://www.youtube.com/embed/${videoId}?start=${startTime}&autoplay=1)
 
-4. ![APIKEY](https://img.shields.io/badge/APIKEY-OMDb-indigo) = 7b82484f
+5. ![APIKEY](https://img.shields.io/badge/APIKEY-OMDb-indigo) = 7b82484f
  (https://www.omdbapi.com/?apikey=${omdbApiKey}&s=${searchTerm})
  (https://www.omdbapi.com/?i=${movie.dataset.id}&apikey=7b82484f)
  (https://omdbapi.com/?s=${searchTerm}&page=1&apikey=7b82484f)
 
-5. ![GoogleFont](https://img.shields.io/badge/Font-GoogleAPI-purple)
+6. ![GoogleFont](https://img.shields.io/badge/Font-GoogleAPI-purple)
  (https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap")
 
