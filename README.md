@@ -73,6 +73,13 @@ More about Cosine Similarity : [Understanding the Math behind Cosine Similarity]
 
 ## Movie Recommendation Application
 
+![Bootstrap](https://img.shields.io/badge/FrontendFrameworks-Bootstrap-blueviolet)
+![JQuery](https://img.shields.io/badge/JavascriptUILibraries-JQuery-red)
+![HTML/CSS](https://img.shields.io/badge/StructureStyle-HTML/CSS-green)
+![JAVASCRIPT](https://img.shields.io/badge/Function-JavaScript-magenta)
+![API](https://img.shields.io/badge/API-Youtube-fcba03)
+![API](https://img.shields.io/badge/API-OMDb-indigo)
+
 ![screenshot_2023-11-16_at_20-22-56_movie_recommendations](https://github.com/TeamProjectMovieReview/Team-Project-/assets/143357899/7e251e3f-b239-4cc1-8f7a-8df9265c3785)
 Live URL: [https://teamprojectmoviereview.github.io/Team-Project-]
 
@@ -186,11 +193,11 @@ to address the following:
 
 ## Source Information
 ```
-1. Bootstrap
- "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css";
- "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js";
- "https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css";
- "https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+1. [Bootstrap]
+(https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css)
+(https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js)
+(https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css)
+(https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js)
 ```
 ```   
 2. JQuery
