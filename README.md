@@ -81,8 +81,7 @@ More about Cosine Similarity : [Understanding the Math behind Cosine Similarity]
 ![API](https://img.shields.io/badge/API-OMDb-indigo)
 
 ![screenshot_2023-11-16_at_20-22-56_movie_recommendations](https://github.com/TeamProjectMovieReview/Team-Project-/assets/143357899/7e251e3f-b239-4cc1-8f7a-8df9265c3785)
-Live URL: [https://teamprojectmoviereview.github.io/Team-Project-]
-
+[Live URL of deployed website](https://teamprojectmoviereview.github.io/Team-Project-)
 
 ## Introduction
 ```
@@ -199,21 +198,21 @@ to address the following:
 <br />(https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css)
 <br />(https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js)
 
-3. ![JQuery](https://img.shields.io/badge/JavascriptUILibraries-JQuery-red)
- (https://code.jquery.com/jquery-3.4.1.min.js)
- (https://code.jquery.com/jquery-3.6.0.min.js)
- (https://code.jquery.com/jquery-3.7.1.min.js)
+2. ![JQuery](https://img.shields.io/badge/JavascriptUILibraries-JQuery-red)
+<br />(https://code.jquery.com/jquery-3.4.1.min.js)
+<br />(https://code.jquery.com/jquery-3.6.0.min.js)
+<br />(https://code.jquery.com/jquery-3.7.1.min.js)
 
-4. ![APIKEY](https://img.shields.io/badge/APIKEY-Youtube-fcba03) = AIzaSyCd2r7TY9q5D4-3SayVQpKcYuM6mkdLdBg
- (https://www.googleapis.com/youtube/v3/search?part=snippet&q=${encodeURIComponent(query)} trailer&key=${apiKey}&maxResults=${maxResults}&type=video)
- (https://www.googleapis.com/youtube/v3/videos?id=${videoId}&part=contentDetails&key=${apiKey})
- (https://www.youtube.com/embed/${videoId}?start=${startTime}&autoplay=1)
+3. ![APIKEY](https://img.shields.io/badge/APIKEY-Youtube-fcba03) = AIzaSyCd2r7TY9q5D4-3SayVQpKcYuM6mkdLdBg
+<br />(https://www.googleapis.com/youtube/v3/search?part=snippet&q=${encodeURIComponent(query)} trailer&key=${apiKey}&maxResults=${maxResults}&type=video)
+<br />(https://www.googleapis.com/youtube/v3/videos?id=${videoId}&part=contentDetails&key=${apiKey})
+<br />(https://www.youtube.com/embed/${videoId}?start=${startTime}&autoplay=1)
 
-5. ![APIKEY](https://img.shields.io/badge/APIKEY-OMDb-indigo) = 7b82484f
- (https://www.omdbapi.com/?apikey=${omdbApiKey}&s=${searchTerm})
- (https://www.omdbapi.com/?i=${movie.dataset.id}&apikey=7b82484f)
- (https://omdbapi.com/?s=${searchTerm}&page=1&apikey=7b82484f)
+4. ![APIKEY](https://img.shields.io/badge/APIKEY-OMDb-indigo) = 7b82484f
+<br />(https://www.omdbapi.com/?apikey=${omdbApiKey}&s=${searchTerm})
+<br />(https://www.omdbapi.com/?i=${movie.dataset.id}&apikey=7b82484f)
+<br />(https://omdbapi.com/?s=${searchTerm}&page=1&apikey=7b82484f)
 
-6. ![GoogleFont](https://img.shields.io/badge/Font-GoogleAPI-purple)
- (https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap")
+5. ![GoogleFont](https://img.shields.io/badge/Font-GoogleAPI-purple)
+<br />(https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap")
 
