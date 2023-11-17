@@ -2,9 +2,8 @@
 
 ## Movie Recommendation Application
 
-Live URL; https://teamprojectmoviereview.github.io/Team-Project-
-
 ![screenshot_2023-11-16_at_20-22-56_movie_recommendations](https://github.com/TeamProjectMovieReview/Team-Project-/assets/143357899/7e251e3f-b239-4cc1-8f7a-8df9265c3785)
+Live URL: [https://teamprojectmoviereview.github.io/Team-Project-]
 
 
 ## Introduction
