@@ -89,18 +89,18 @@ front-end application that you’ll be able to showcase to potential employers.
 The user story and acceptance criteria will depend on the project that you create, but your project must
 fulfil the following requirements:
 
-* Use a CSS framework other than Bootstrap.
-* Be deployed to GitHub Pages.
-* Be interactive (i.e., accept and respond to user input).
-* Use at least two [server-side APIs]
-  https://coding-boot-camp.github.io/full-stack/apis/api-resources 
-* Does not use alerts, confirms, or prompts (use modals).
-* Use client-side storage to store persistent data.
-* Be responsive.
-* Have a polished UI.
-* Have a clean repository that meets quality coding standards
-  (file structure, naming, follows class/id naming, indentation, quality comments, etc.).
-* Have a quality README (unique name, description, technologies, screenshot, and deployed application).
+&ensp;* Use a CSS framework other than Bootstrap.
+&ensp;* Be deployed to GitHub Pages.
+&ensp;* Be interactive (i.e., accept and respond to user input).
+&ensp;* Use at least two [server-side APIs]
+&ensp;  https://coding-boot-camp.github.io/full-stack/apis/api-resources 
+&ensp;* Does not use alerts, confirms, or prompts (use modals).
+&ensp;* Use client-side storage to store persistent data.
+&ensp;* Be responsive.
+&ensp;* Have a polished UI.
+&ensp;* Have a clean repository that meets quality coding standards
+&ensp;  (file structure, naming, follows class/id naming, indentation, quality comments, etc.).
+&ensp;* Have a quality README (unique name, description, technologies, screenshot, and deployed application).
 
 
 ## Presentation Requirements
@@ -110,76 +110,76 @@ https://docs.google.com/presentation/d/10QaO9KH8HtUXj__81ve0SZcpO5DbMbqqQr4iPpbw
 
 to address the following: 
 
-* Elevator pitch: a one minute description of your application
-* Concept: What is your user story? What was your motivation for development?
-* Process: What were the technologies used? How were tasks and roles broken down and assigned?
-  What challenges did you encounter? What were your successes?
-* Demo: Show your stuff!
-* Directions for Future Development
-* Links to the deployed application and the GitHub repository
+&ensp;* Elevator pitch: a one minute description of your application
+&ensp;* Concept: What is your user story? What was your motivation for development?
+&ensp;* Process: What were the technologies used? How were tasks and roles broken down and assigned?
+&ensp;  What challenges did you encounter? What were your successes?
+&ensp;* Demo: Show your stuff!
+&ensp;* Directions for Future Development
+&ensp;* Links to the deployed application and the GitHub repository
 
 
 ## Technologies & Sources used for the project
 
 ![HTML](https://img.shields.io/badge/Structure-HTML-green)
-<br /> (1) The structure of the document is defined using HTML5 elements
-<br /> (2) Iframes: the source pointing to embed YouTube videos for movie trailers.
+<br /> &ensp;(1) The structure of the document is defined using HTML5 elements
+<br /> &ensp;(2) Iframes: the source pointing to embed YouTube videos for movie trailers.
 <br />
 <br />
 
 ![CSS](https://img.shields.io/badge/Style-CSS-green)
-<br /> (1) Flexbox: to create flexible box layouts for class elements & aside
-<br /> (2) Flex Direction: to control the direction of the flex container's main axis.
-<br /> (3) Hover Effects: to add transitions and style changes on hover
-<br /> (4) Scrollbar Styling: to custom styles applied to scrollbar elements by using:
-<br />     webkit-scrollbar, webkit-scrollbar-thumb, and webkit-scrollbar-track pseudo-elements.
-<br /> (5) Transition Effects: applied for smooth animation effects in certain interactions.
-<br /> (6) Positioning: to use positioning elements, and z-index to control the stacking order of elements.
-<br /> (7) Cursor Styles: to change the cursor style on buttons.
-<br /> (8) Object Fit: to control how an image or video should be resized to fit its container.
-<br /> (9) Opacity: to control the transparency of certain elements.
-<br /> The Bootstrap framework is included via a CDN link 
-<br /> https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css
-<br /> https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
+<br /> &ensp;(1) Flexbox: to create flexible box layouts for class elements & aside
+<br /> &ensp;(2) Flex Direction: to control the direction of the flex container's main axis.
+<br /> &ensp;(3) Hover Effects: to add transitions and style changes on hover
+<br /> &ensp;(4) Scrollbar Styling: to custom styles applied to scrollbar elements by using:
+<br /> &ensp;    webkit-scrollbar, webkit-scrollbar-thumb, and webkit-scrollbar-track pseudo-elements.
+<br /> &ensp;(5) Transition Effects: applied for smooth animation effects in certain interactions.
+<br /> &ensp;(6) Positioning: to use positioning elements, and z-index to control the stacking order of elements.
+<br /> &ensp;(7) Cursor Styles: to change the cursor style on buttons.
+<br /> &ensp;(8) Object Fit: to control how an image or video should be resized to fit its container.
+<br /> &ensp;(9) Opacity: to control the transparency of certain elements.
+<br /> &ensp;The Bootstrap framework is included via a CDN link 
+<br /> &ensp;https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css
+<br /> &ensp;https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
 <br />
 <br />
 
 ![JQuery](https://img.shields.io/badge/JavaScriptUILibrary-JQuery-red)
-<br /> The code extensively uses jQuery for DOM manipulation, AJAX requests, and event handling.
-<br /> Promises: are used for handling asynchronous operations, such as AJAX requests.
-<br /> Scroll Animation: using jQuery to smoothly scroll to a specific element.
-<br /> Event listeners: to handle various user interactions, such as button clicks/search bar actions.
-<br /> https://code.jquery.com/jquery-3.4.1.min.js
-<br /> https://code.jquery.com/jquery-3.6.0.min.js
-<br /> https://code.jquery.com/jquery-3.7.1.min.js
+<br /> &ensp;(1) The code extensively uses jQuery for DOM manipulation, AJAX requests, and event handling.
+<br /> &ensp;(a) Promises: are used for handling asynchronous operations, such as AJAX requests.
+<br /> &ensp;(b) Scroll Animation: using jQuery to smoothly scroll to a specific element.
+<br /> &ensp;(c) Event listeners: to handle various user interactions, such as button clicks/search bar actions.
+<br /> &ensp;https://code.jquery.com/jquery-3.4.1.min.js
+<br /> &ensp;https://code.jquery.com/jquery-3.6.0.min.js
+<br /> &ensp;https://code.jquery.com/jquery-3.7.1.min.js
 <br />
 <br />
 
 ![Bootstrap](https://img.shields.io/badge/CSSFrameworks-Bootstrap-blueviolet) 
-<br /> via a CDN link:
-<br /> https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js
-<br /> https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js
+<br /> &ensp;via a CDN link:
+<br /> &ensp;https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js
+<br /> &ensp;https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js
 <br />
 <br />
 
 ![APIKEY](https://img.shields.io/badge/ServerSideAPIs-Youtube-fcba03)
-<br /> The code interacts with the Open Movie Database (OMDb) API to fetch movie data.
-<br /> https://www.googleapis.com/youtube/v3/search?part=snippet&q=${encodeURIComponent(query)}
-<br /> https://www.googleapis.com/youtube/v3/videos?id=${videoId}&part=contentDetails&key=${apiKey}
-<br /> https://www.youtube.com/embed/${videoId}?start=${startTime}&autoplay=1
+<br /> &ensp;The code interacts with the Open Movie Database (OMDb) API to fetch movie data.
+<br /> &ensp;https://www.googleapis.com/youtube/v3/search?part=snippet&q=${encodeURIComponent(query)}
+<br /> &ensp;https://www.googleapis.com/youtube/v3/videos?id=${videoId}&part=contentDetails&key=${apiKey}
+<br /> &ensp;https://www.youtube.com/embed/${videoId}?start=${startTime}&autoplay=1
 <br />
 <br />
 
 ![APIKEY](https://img.shields.io/badge/ServerSideAPIs-OMDb-fcba03)
-<br /> The code uses the YouTube API to search for movie trailers and fetch details.
-<br /> https://www.omdbapi.com/?apikey=${omdbApiKey}&s=${searchTerm}
-<br /> https://www.omdbapi.com/?i=${movie.dataset.id}&apikey=7b82484f
-<br /> https://omdbapi.com/?s=${searchTerm}&page=1&apikey=7b82484f
+<br /> &ensp;The code uses the YouTube API to search for movie trailers and fetch details.
+<br /> &ensp;https://www.omdbapi.com/?apikey=${omdbApiKey}&s=${searchTerm}
+<br /> &ensp;https://www.omdbapi.com/?i=${movie.dataset.id}&apikey=7b82484f
+<br /> &ensp;https://omdbapi.com/?s=${searchTerm}&page=1&apikey=7b82484f
 <br />
 <br />
 
 ![JSON](https://img.shields.io/badge/LocalStorage-JSON-magenta)
-<br /> Local Storage: The code uses the browser's localStorage to store and retrieve favorite movies.
+<br /> &ensp;Local Storage.Stringfy: browser's localStorage to store and retrieve favorite movies.
 <br />
 <br />
 <br />
