@@ -7,6 +7,7 @@
 ![HTML/CSS](https://img.shields.io/badge/StructureStyle-HTML/CSS-green)
 ![JavaScript](https://img.shields.io/badge/Function-JavaScript-magenta)
 ![ServerSideAPI](https://img.shields.io/badge/API-Youtube/OMDb-fcba03)
+![LocalStorage](https://img.shields.io/badge/JSON.Stringfy-indigo)
 
 ![image](https://github.com/TeamProjectMovieReview/Team-Project-/assets/143357899/a9e53f48-1584-4cee-baa3-e133a93e56ee)
 <br />
