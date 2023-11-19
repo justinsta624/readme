@@ -241,10 +241,3 @@ websites on multiple social platform.
 
 Overall there’s potential for this website to grow in multiple directions that will have to be tackled
 one at a time.
-
-This website is a great starter and as members of his team we are very proud to present our website!
-```
-<br />[↑ Back to Top](#top)</br><br />
-</details>
-
-
