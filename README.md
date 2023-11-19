@@ -14,9 +14,9 @@
 [Live URL of Movie Recommendation Application](https://teamprojectmoviereview.github.io/Team-Project-)
 <br />
 <br />
-<details open>
-  
+
 ## <summary>Introduction</summary>
+<details open>  
 <br />
 
 ```
@@ -47,9 +47,10 @@ It’s like a free show where you can access as many captivating and user engagi
 you may possibly desire.
 ```
 </details>
-<details open>
+
   
 ## <summary>Motivation for development</summary>
+<details open>
 <br />
 
 
@@ -76,11 +77,11 @@ requirements, we’ve been able to integrate high quality content for users and 
 what they are looking for.
 ```
 
-
 </details>
 
+
+## <summary>User Story</summary>
 <details open>
-<summary>User Story</summary>
 <br />
 
 
@@ -98,8 +99,9 @@ It enables me to easily explore endless movies, many unheard of, all while keepi
 
 </details>
 
+
+## <summary>Project Requirements</summary>
 <details open>
-<summary>Project Requirements</summary>
 <br />
 
 You and your group will use everything you’ve learned over the past six modules to create a real-world
@@ -121,11 +123,11 @@ fulfil the following requirements:
   (file structure, naming, follows class/id naming, indentation, quality comments, etc.).
 * Have a quality README (unique name, description, technologies, screenshot, and deployed application).
 <br />
-
 </details>
 
+
+## <summary>Presentation of the Project</summary> 
 <details open>
-<summary>Presentation of the Project</summary> 
 <br />
 
 Group 2 Presentation of Project [Movie Recommendation Website]
@@ -141,11 +143,11 @@ to address the following:
 * Directions for Future Development
 * Links to the deployed application and the GitHub repository
 <br />
-
 <br>[↑ Back to Top](#top)</br>
 </details>
+
+## <summary>Technologies & Sources used for the project</summary>
 <details open>
-<summary>Technologies & Sources used for the project</summary>
 <br />
 
 <a id="HTML/CSS"></a>
@@ -217,8 +219,9 @@ to address the following:
 <br />
 </details>
 
+
+## <summary>Directions for Future Development</summary>
 <details open>
-<summary>Directions for Future Development</summary>
 
 An aspect for future development is to add watch history to allow users to be able to find a possible
 movie that they may have “lost”. 
