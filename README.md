@@ -126,14 +126,13 @@ to address the following:
 <br /> (2) Iframes: the source pointing to embed YouTube videos for movie trailers.
 <br />
 <br />
-<br />
 
 ![CSS](https://img.shields.io/badge/Style-CSS-green)
 <br /> (1) Flexbox: to create flexible box layouts for class elements & aside
 <br /> (2) Flex Direction: to control the direction of the flex container's main axis.
 <br /> (3) Hover Effects: to add transitions and style changes on hover
-<br /> (4) Scrollbar Styling: to custom styles applied to scrollbar elements by using
-<br /> ::-webkit-scrollbar, ::-webkit-scrollbar-thumb, and ::-webkit-scrollbar-track pseudo-elements.
+<br /> (4) Scrollbar Styling: to custom styles applied to scrollbar elements by using:
+<br />     webkit-scrollbar, webkit-scrollbar-thumb, and webkit-scrollbar-track pseudo-elements.
 <br /> (5) Transition Effects: applied for smooth animation effects in certain interactions.
 <br /> (6) Positioning: to use positioning elements, and z-index to control the stacking order of elements.
 <br /> (7) Cursor Styles: to change the cursor style on buttons.
@@ -142,7 +141,6 @@ to address the following:
 <br /> The Bootstrap framework is included via a CDN link 
 <br /> https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css
 <br /> https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
-<br />
 <br />
 <br />
 
@@ -156,36 +154,24 @@ to address the following:
 <br /> https://code.jquery.com/jquery-3.7.1.min.js
 <br />
 <br />
-<br />
 
 ![Bootstrap](https://img.shields.io/badge/CSSFrameworks-Bootstrap-blueviolet) 
-<br /> 
-```
-via a CDN link:
-```
+<br /> via a CDN link:
 <br /> https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js
 <br /> https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js
 <br />
 <br />
-<br />
 
 ![APIKEY](https://img.shields.io/badge/ServerSideAPIs-Youtube-fcba03)
-<br /> 
-```
-The code interacts with the Open Movie Database (OMDb) API to fetch movie data.
-```
+<br /> The code interacts with the Open Movie Database (OMDb) API to fetch movie data.
 <br /> https://www.googleapis.com/youtube/v3/search?part=snippet&q=${encodeURIComponent(query)}
 <br /> https://www.googleapis.com/youtube/v3/videos?id=${videoId}&part=contentDetails&key=${apiKey}
 <br /> https://www.youtube.com/embed/${videoId}?start=${startTime}&autoplay=1
 <br />
 <br />
-<br />
 
 ![APIKEY](https://img.shields.io/badge/ServerSideAPIs-OMDb-fcba03)
-<br /> 
-```
-The code uses the YouTube API to search for movie trailers and fetch details.
-```
+<br /> The code uses the YouTube API to search for movie trailers and fetch details.
 <br /> https://www.omdbapi.com/?apikey=${omdbApiKey}&s=${searchTerm}
 <br /> https://www.omdbapi.com/?i=${movie.dataset.id}&apikey=7b82484f
 <br /> https://omdbapi.com/?s=${searchTerm}&page=1&apikey=7b82484f
@@ -193,10 +179,7 @@ The code uses the YouTube API to search for movie trailers and fetch details.
 <br />
 
 ![JSON](https://img.shields.io/badge/LocalStorage-JSON-magenta)
-<br /> 
-```
-Local Storage: The code uses the browser's localStorage to store and retrieve favorite movies.
-```
+<br /> Local Storage: The code uses the browser's localStorage to store and retrieve favorite movies.
 <br />
 <br />
 <br />
