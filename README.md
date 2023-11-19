@@ -126,6 +126,10 @@ fulfil the following requirements:
 
 </details>
 
+<br />
+<br />
+<br />
+
 <details open>
 <summary> Presentation of the Project </summary> <br />
 
