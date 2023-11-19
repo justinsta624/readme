@@ -210,6 +210,8 @@ to address the following:
 <br /> &ensp;Local Storage.Stringfy: browser's localStorage to store and retrieve favorite movies.
 <br />
 </details>
+<br />
+
 
 <details open>
 <summary> Directions for Future Development </summary> <br />
