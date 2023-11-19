@@ -17,9 +17,9 @@
 
 
 <details open>
-<summary> Introduction </summary>
+<summary> Introduction </summary> <br />
   
-<br />
+
 ```
 This is our movie trailer platform.
 
