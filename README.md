@@ -5,7 +5,7 @@
 ![Bootstrap](https://img.shields.io/badge/CSSFrameworks-Bootstrap-blueviolet)
 ![JQuery](https://img.shields.io/badge/JavaScriptUILibrary-JQuery-red)
 ![HTML/CSS](https://img.shields.io/badge/Structure&Style-HTML/CSS-green)
-![Youtube/OMDb](https://img.shields.io/badge/ServerSideAPI-Youtube/OMDb-fcba03)
+![Youtube/OMDb](https://img.shields.io/badge/ServerSideAPIs-Youtube/OMDb-fcba03)
 ![JSON](https://img.shields.io/badge/LocalStorage-JSON-magenta)
 
 ![image](https://github.com/TeamProjectMovieReview/Team-Project-/assets/143357899/a9e53f48-1584-4cee-baa3-e133a93e56ee)
