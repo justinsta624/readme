@@ -18,6 +18,7 @@
 
 <details open>
 <summary> Introduction </summary>
+  
 <br />
 ```
 This is our movie trailer platform.
@@ -51,8 +52,8 @@ you may possibly desire.
 </details>
 
 <details open>
-<summary> Motivation for development </summary>
-<br />
+<summary>## Motivation for development</summary>
+
 
 ```
 We created this project because of the increase in the current movie market and to create a user
@@ -81,8 +82,9 @@ what they are looking for.
 </details>
 
 <details open>
-<summary> User Story </summary>
-<br />
+<summary>## User Story</summary>
+
+
 ```
 Being the movie enthusiasts that we are, we were aiming to create a website that makes it easier for
 us to view and easily navigate through an extensive collection of movies to pick and chose.
@@ -93,14 +95,13 @@ section for my chosen trailers, allowing me to save and revisit at my own discre
 
 It enables me to easily explore endless movies, many unheard of, all while keeping the website engaging.
 ```
-[↑ Back to Top](#top)</br>
-<br>
+<br>[↑ Back to Top](#top)</br>
 
 </details>
 
 <details open>
-<summary> Project Requirements </summary>
-<br />
+<summary>## Project Requirements</summary>
+
 You and your group will use everything you’ve learned over the past six modules to create a real-world
 front-end application that you’ll be able to showcase to potential employers.
 
@@ -119,13 +120,13 @@ fulfil the following requirements:
 * Have a clean repository that meets quality coding standards
   (file structure, naming, follows class/id naming, indentation, quality comments, etc.).
 * Have a quality README (unique name, description, technologies, screenshot, and deployed application).
-<br>
+
 
 </details>
 
 <details open>
-<summary> Presentation of the Project </summary> 
-<br />
+<summary>## Presentation of the Project</summary> 
+
 Group 2 Presentation of Project [Movie Recommendation Website]
 [https://docs.google.com/presentation/d/10QaO9KH8HtUXj__81ve0SZcpO5DbMbqqQr4iPpbwKks/edit?usp=sharing](https://docs.google.com/presentation/d/1joHsI0JIZWYRWBveIRM8Qj2hoRFw-oNhHvMKiCAOZcM/edit#slide=id.g29f43f0a72_0_15)
 
@@ -139,13 +140,11 @@ to address the following:
 * Directions for Future Development
 * Links to the deployed application and the GitHub repository
 
-[↑ Back to Top](#top)</br>
-<br>
+<br>[↑ Back to Top](#top)</br>
 </details>
-
 <details open>
-<summary> Technologies & Sources used for the project </summary>
-<br />
+<summary>## Technologies & Sources used for the project</summary>
+
 <a id="HTML/CSS"></a>
 ![HTML](https://img.shields.io/badge/Structure-HTML-green)
 <br /> &ensp;(1) The structure of the document is defined using HTML5 elements
@@ -216,9 +215,8 @@ to address the following:
 </details>
 
 <details open>
-<summary> Directions for Future Development </summary>
-<br />  
-```
+<summary>## Directions for Future Development</summary>
+
 An aspect for future development is to add watch history to allow users to be able to find a possible
 movie that they may have “lost”. 
 
@@ -244,8 +242,7 @@ Overall there’s potential for this website to grow in multiple directions that
 one at a time.
 
 This website is a great starter and as members of his team we are very proud to present our website!
-```
-[↑ Back to Top](#top)</br>
-<br />
+<br>[↑ Back to Top](#top)</br>
 </details>
+
 
