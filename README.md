@@ -1,6 +1,6 @@
 # Project by Group 2: 
 
-# Movie Recommendation Application
+## Movie Recommendation Application
 
 ![Bootstrap](https://img.shields.io/badge/CSSFrameworks-Bootstrap-blueviolet)
 ![JQuery](https://img.shields.io/badge/JavaScriptUILibrary-JQuery-red)
@@ -10,10 +10,11 @@
 
 ![image](https://github.com/TeamProjectMovieReview/Team-Project-/assets/143357899/a9e53f48-1584-4cee-baa3-e133a93e56ee)
 <br />
+<br />
 [Live URL of Movie Recommendation Application](https://teamprojectmoviereview.github.io/Team-Project-)
 
-# Introduction
-```
+## Introduction
+
 This is our movie trailer platform.
 
 This is where you can be the next potential movie critic and enthusiast.
@@ -39,11 +40,9 @@ working to improve and enhance user engagement.
 
 It’s like a free show where you can access as many captivating and user engaging trailers
 you may possibly desire.
-```
 
-# Motivation for development
+## Motivation for development
 
-```
 We created this project because of the increase in the current movie market and to create a user
 friendly environment to help individuals to browse trailers and choose specific movies they would prefer.
 
@@ -64,11 +63,9 @@ weather they’d like to go view this movie.
 Another reason for this project is by adding these external API’s, alongside with meeting project
 requirements, we’ve been able to integrate high quality content for users and allows them to find exactly
 what they are looking for.
-```
 
-# User Story
+## User Story
 
-```
 Being the movie enthusiasts that we are, we were aiming to create a website that makes it easier for
 us to view and easily navigate through an extensive collection of movies to pick and chose.
 
@@ -77,7 +74,6 @@ own convenience, for when we obtain a chance to view and watch a movie.This webs
 section for my chosen trailers, allowing me to save and revisit at my own discretion.
 
 It enables me to easily explore endless movies, many unheard of, all while keeping the website engaging.
-```
 
 ## Project Requirements
 
@@ -118,15 +114,16 @@ to address the following:
 
 
 ## Technologies & Sources used for the project
-
+<br />
 ![HTML](https://img.shields.io/badge/Structure-HTML-green)
-
-<br /> (1) The structure of the document is defined using HTML5 elements
+```
+(1) The structure of the document is defined using HTML5 elements
 <br /> (2) Iframes: the source pointing to embed YouTube videos for movie trailers.
-
+<br />
+```
 ![CSS](https://img.shields.io/badge/Style-CSS-green)
-
-<br /> (1) Flexbox: to create flexible box layouts for class elements & aside
+```
+(1) Flexbox: to create flexible box layouts for class elements & aside
 <br /> (2) Flex Direction: to control the direction of the flex container's main axis.
 <br /> (3) Hover Effects: to add transitions and style changes on hover
 <br /> (4) Scrollbar Styling: to custom styles applied to scrollbar elements by using
@@ -136,16 +133,19 @@ to address the following:
 <br /> (7) Cursor Styles: to change the cursor style on buttons.
 <br /> (8) Object Fit: to control how an image or video should be resized to fit its container.
 <br /> (9) Opacity: to control the transparency of certain elements.
+```
 
 <br /> The Bootstrap framework is included via a CDN link 
 <br /> https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css
 <br /> https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
 
 ![JQuery](https://img.shields.io/badge/JavaScriptUILibrary-JQuery-red)
-<br /> The code extensively uses jQuery for DOM manipulation, AJAX requests, and event handling.
+```
+The code extensively uses jQuery for DOM manipulation, AJAX requests, and event handling.
 <br /> Promises: are used for handling asynchronous operations, such as AJAX requests.
 <br /> Scroll Animation: using jQuery to smoothly scroll to a specific element.
 <br /> Event listeners: to handle various user interactions, such as button clicks/search bar actions.
+```
 <br /> https://code.jquery.com/jquery-3.4.1.min.js
 <br /> https://code.jquery.com/jquery-3.6.0.min.js
 <br /> https://code.jquery.com/jquery-3.7.1.min.js
@@ -155,22 +155,28 @@ to address the following:
 <br /> https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js
 
 ![APIKEY](https://img.shields.io/badge/ServerSideAPIs-Youtube-fcba03) "AIzaSyCd2r7TY9q5D4-3SayVQpKcYuM6mkdLdBg"
+```
 <br /> The code interacts with the Open Movie Database (OMDb) API to fetch movie data.
+```
 <br /> https://www.googleapis.com/youtube/v3/search?part=snippet&q=${encodeURIComponent(query)}
 <br /> https://www.googleapis.com/youtube/v3/videos?id=${videoId}&part=contentDetails&key=${apiKey}
 <br /> https://www.youtube.com/embed/${videoId}?start=${startTime}&autoplay=1
 
 ![APIKEY](https://img.shields.io/badge/ServerSideAPIs-OMDb-fcba03) "7b82484f"
+```
 <br /> The code uses the YouTube API to search for movie trailers and fetch details.
+```
 <br /> https://www.omdbapi.com/?apikey=${omdbApiKey}&s=${searchTerm}
 <br /> https://www.omdbapi.com/?i=${movie.dataset.id}&apikey=7b82484f
 <br /> https://omdbapi.com/?s=${searchTerm}&page=1&apikey=7b82484f
 
 ![JSON](https://img.shields.io/badge/LocalStorage-JSON-magenta)
+```
 <br /> Local Storage: The code uses the browser's localStorage to store and retrieve favorite movies.
+```
 
 ## Directions for Future Development
-```
+
 An aspect for future development is to add watch history to allow users to be able to find a possible
 movie that they may have “lost”. 
 
@@ -196,7 +202,7 @@ Overall there’s potential for this website to grow in multiple directions that
 one at a time.
 
 This website is a great starter and as members of his team we are very proud to present our website!
-```
+
 
 # Source Information
 
