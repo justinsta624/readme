@@ -18,6 +18,7 @@
 
 <details open>
 <summary>Introduction</summary>
+<br />
 
 ```
 This is our movie trailer platform.
@@ -52,6 +53,7 @@ you may possibly desire.
 
 <details open>
 <summary>Motivation for development</summary>
+<br />
 
 
 ```
@@ -82,6 +84,7 @@ what they are looking for.
 
 <details open>
 <summary>User Story</summary>
+<br />
 
 
 ```
@@ -100,6 +103,7 @@ It enables me to easily explore endless movies, many unheard of, all while keepi
 
 <details open>
 <summary>Project Requirements</summary>
+<br />
 
 You and your group will use everything you’ve learned over the past six modules to create a real-world
 front-end application that you’ll be able to showcase to potential employers.
@@ -119,12 +123,13 @@ fulfil the following requirements:
 * Have a clean repository that meets quality coding standards
   (file structure, naming, follows class/id naming, indentation, quality comments, etc.).
 * Have a quality README (unique name, description, technologies, screenshot, and deployed application).
-
+<br />
 
 </details>
 
 <details open>
 <summary>Presentation of the Project</summary> 
+<br />
 
 Group 2 Presentation of Project [Movie Recommendation Website]
 [https://docs.google.com/presentation/d/10QaO9KH8HtUXj__81ve0SZcpO5DbMbqqQr4iPpbwKks/edit?usp=sharing](https://docs.google.com/presentation/d/1joHsI0JIZWYRWBveIRM8Qj2hoRFw-oNhHvMKiCAOZcM/edit#slide=id.g29f43f0a72_0_15)
@@ -138,11 +143,13 @@ to address the following:
 * Demo: Show your stuff!
 * Directions for Future Development
 * Links to the deployed application and the GitHub repository
+<br />
 
 <br>[↑ Back to Top](#top)</br>
 </details>
 <details open>
 <summary>Technologies & Sources used for the project</summary>
+<br />
 
 <a id="HTML/CSS"></a>
 ![HTML](https://img.shields.io/badge/Structure-HTML-green)
