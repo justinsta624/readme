@@ -14,10 +14,9 @@
 [Live URL of Movie Recommendation Application](https://teamprojectmoviereview.github.io/Team-Project-)
 <br />
 <br />
-
-
 <details open>
-<summary>Introduction</summary>
+  
+## <summary>Introduction</summary>
 <br />
 
 ```
@@ -47,12 +46,10 @@ working to improve and enhance user engagement.
 It’s like a free show where you can access as many captivating and user engaging trailers
 you may possibly desire.
 ```
-
-
 </details>
-
 <details open>
-<summary>Motivation for development</summary>
+  
+## <summary>Motivation for development</summary>
 <br />
 
 
