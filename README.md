@@ -1,5 +1,4 @@
-## Group 2 Project
-## ⭐ Movie Recommendation Application ⭐ 
+## ⭐ Group 2 Project - Movie Recommendation Application ⭐ 
 
 ![Bootstrap](https://img.shields.io/badge/CSSFrameworks-Bootstrap-blueviolet)
 ![JQuery](https://img.shields.io/badge/JavaScriptUILibrary-JQuery-red)
