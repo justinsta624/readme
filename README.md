@@ -4,7 +4,7 @@
 
 ![Bootstrap](https://img.shields.io/badge/CSSFrameworks-Bootstrap-blueviolet)
 ![JQuery](https://img.shields.io/badge/JavaScriptUILibrary-JQuery-red)
-![HTML/CSS](https://img.shields.io/badge/StructureStyle-HTML/CSS-green)
+![HTML/CSS](https://img.shields.io/badge/Structure&Style-HTML/CSS-green)
 ![Youtube/OMDb](https://img.shields.io/badge/ServerSideAPI-Youtube/OMDb-fcba03)
 ![JSON](https://img.shields.io/badge/LocalStorage-JSON-magenta)
 
