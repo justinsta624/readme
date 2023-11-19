@@ -128,7 +128,6 @@ fulfil the following requirements:
 
 <br />
 <br />
-<br />
 
 <details open>
 <summary> Presentation of the Project </summary> <br />
@@ -137,7 +136,6 @@ Group 2 Presentation of Project: [Movie Recommendation Website]
 [https://docs.google.com/presentation/d/10QaO9KH8HtUXj__81ve0SZcpO5DbMbqqQr4iPpbwKks/edit?usp=sharing](https://docs.google.com/presentation/d/1joHsI0JIZWYRWBveIRM8Qj2hoRFw-oNhHvMKiCAOZcM/edit#slide=id.g29f43f0a72_0_15)
 
 to address the following: 
-
 * Elevator pitch: a one minute description of your application
 * Concept: What is your user story? What was your motivation for development?
 * Process: What were the technologies used? How were tasks and roles broken down and assigned?
@@ -193,7 +191,7 @@ to address the following:
 <br /> &ensp;https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js
 <br /> &ensp;https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js
 <br />
-
+<br />
 
 <a id="YOUTUBE"></a>
 ![APIKEY](https://img.shields.io/badge/ServerSideAPIs-Youtube-fcba03)
@@ -222,6 +220,8 @@ to address the following:
 
 <details open>
 <summary> Directions for Future Development </summary> <br />
+
+  
 ```
 An aspect for future development is to add watch history to allow users to be able to find a possible
 movie that they may have “lost”. 
