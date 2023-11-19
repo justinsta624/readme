@@ -81,7 +81,7 @@ section for my chosen trailers, allowing me to save and revisit at my own discre
 It enables me to easily explore endless movies, many unheard of, all while keeping the website engaging.
 ```
 
-# Project Requirements
+## Project Requirements
 
 You and your group will use everything you’ve learned over the past six modules to create a real-world
 front-end application that you’ll be able to showcase to potential employers.
@@ -103,7 +103,7 @@ fulfil the following requirements:
 * Have a quality README (unique name, description, technologies, screenshot, and deployed application).
 
 
-# Presentation Requirements
+## Presentation Requirements
 
 Use this [project presentation template]
 https://docs.google.com/presentation/d/10QaO9KH8HtUXj__81ve0SZcpO5DbMbqqQr4iPpbwKks/edit?usp=sharing
@@ -120,15 +120,13 @@ to address the following:
 
 
 ## Technologies & Sources used for the project
-<br />
-![HTML](https://img.shields.io/badge/Structure-HTML-green)
 
+![HTML](https://img.shields.io/badge/Structure-HTML-green)
 (1) The structure of the document is defined using HTML5 elements
 <br /> (2) Iframes: the source pointing to embed YouTube videos for movie trailers.
 <br />
 
 ![CSS](https://img.shields.io/badge/Style-CSS-green)
-
 (1) Flexbox: to create flexible box layouts for class elements & aside
 <br /> (2) Flex Direction: to control the direction of the flex container's main axis.
 <br /> (3) Hover Effects: to add transitions and style changes on hover
@@ -139,19 +137,16 @@ to address the following:
 <br /> (7) Cursor Styles: to change the cursor style on buttons.
 <br /> (8) Object Fit: to control how an image or video should be resized to fit its container.
 <br /> (9) Opacity: to control the transparency of certain elements.
-
 <br /> The Bootstrap framework is included via a CDN link 
 <br /> https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css
 <br /> https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
 <br />
 
 ![JQuery](https://img.shields.io/badge/JavaScriptUILibrary-JQuery-red)
-```
 The code extensively uses jQuery for DOM manipulation, AJAX requests, and event handling.
 <br /> Promises: are used for handling asynchronous operations, such as AJAX requests.
 <br /> Scroll Animation: using jQuery to smoothly scroll to a specific element.
 <br /> Event listeners: to handle various user interactions, such as button clicks/search bar actions.
-```
 <br /> https://code.jquery.com/jquery-3.4.1.min.js
 <br /> https://code.jquery.com/jquery-3.6.0.min.js
 <br /> https://code.jquery.com/jquery-3.7.1.min.js
@@ -163,28 +158,22 @@ The code extensively uses jQuery for DOM manipulation, AJAX requests, and event 
 <br />
 
 ![APIKEY](https://img.shields.io/badge/ServerSideAPIs-Youtube-fcba03)
-```
 The code interacts with the Open Movie Database (OMDb) API to fetch movie data.
-```
 <br /> https://www.googleapis.com/youtube/v3/search?part=snippet&q=${encodeURIComponent(query)}
 <br /> https://www.googleapis.com/youtube/v3/videos?id=${videoId}&part=contentDetails&key=${apiKey}
 <br /> https://www.youtube.com/embed/${videoId}?start=${startTime}&autoplay=1
 <br />
 
 ![APIKEY](https://img.shields.io/badge/ServerSideAPIs-OMDb-fcba03)
-```
 The code uses the YouTube API to search for movie trailers and fetch details.
-```
 <br /> https://www.omdbapi.com/?apikey=${omdbApiKey}&s=${searchTerm}
 <br /> https://www.omdbapi.com/?i=${movie.dataset.id}&apikey=7b82484f
 <br /> https://omdbapi.com/?s=${searchTerm}&page=1&apikey=7b82484f
 <br />
 
 ![JSON](https://img.shields.io/badge/LocalStorage-JSON-magenta)
-```
 <br /> Local Storage: The code uses the browser's localStorage to store and retrieve favorite movies.
 <br />
-```
 
 ## Directions for Future Development
 
