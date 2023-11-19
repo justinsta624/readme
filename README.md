@@ -95,20 +95,20 @@ section for my chosen trailers, allowing me to save and revisit at my own discre
 
 It enables me to easily explore endless movies, many unheard of, all while keeping the website engaging.
 ```
-[↑ Back to Top](#top)</br>
+<br />[↑ Back to Top](#top)</br><br />
 
 </details>
 
 <details open>
 <summary> Project Requirements </summary> <br />
 
-
+```
 You and your group will use everything you’ve learned over the past six modules to create a real-world
 front-end application that you’ll be able to showcase to potential employers.
 
 The user story and acceptance criteria will depend on the project that you create, but your project must
 fulfil the following requirements:
-
+```
 
 * Use a CSS framework other than Bootstrap.
 * Be deployed to GitHub Pages.
@@ -129,7 +129,7 @@ fulfil the following requirements:
 <details open>
 <summary> Presentation of the Project </summary> <br />
 
-Group 2 Presentation of Project [Movie Recommendation Website]
+Group 2 Presentation of Project: [Movie Recommendation Website]
 [https://docs.google.com/presentation/d/10QaO9KH8HtUXj__81ve0SZcpO5DbMbqqQr4iPpbwKks/edit?usp=sharing](https://docs.google.com/presentation/d/1joHsI0JIZWYRWBveIRM8Qj2hoRFw-oNhHvMKiCAOZcM/edit#slide=id.g29f43f0a72_0_15)
 
 to address the following: 
@@ -137,12 +137,12 @@ to address the following:
 * Elevator pitch: a one minute description of your application
 * Concept: What is your user story? What was your motivation for development?
 * Process: What were the technologies used? How were tasks and roles broken down and assigned?
-  What challenges did you encounter? What were your successes?
+  <br /> &ensp; What challenges did you encounter? What were your successes?
 * Demo: Show your stuff!
 * Directions for Future Development
 * Links to the deployed application and the GitHub repository
 
-[↑ Back to Top](#top)</br>
+<br />[↑ Back to Top](#top)</br><br />
 </details>
 <details open>
 <summary> Technologies & Sources used for the project </summary> </br>
@@ -218,7 +218,7 @@ to address the following:
 
 <details open>
 <summary> Directions for Future Development </summary> <br />
-
+```
 An aspect for future development is to add watch history to allow users to be able to find a possible
 movie that they may have “lost”. 
 
@@ -244,7 +244,8 @@ Overall there’s potential for this website to grow in multiple directions that
 one at a time.
 
 This website is a great starter and as members of his team we are very proud to present our website!
-[↑ Back to Top](#top)</br>
+```
+<br />[↑ Back to Top](#top)</br><br />
 </details>
 
 
