@@ -103,10 +103,10 @@ fulfil the following requirements:
 * Have a quality README (unique name, description, technologies, screenshot, and deployed application).
 
 
-## Presentation Requirements
+## Presentation of the Project 
 
-Use this [project presentation template]
-https://docs.google.com/presentation/d/10QaO9KH8HtUXj__81ve0SZcpO5DbMbqqQr4iPpbwKks/edit?usp=sharing
+Group 2 Presentation of Project [Movie Recommendation Website]
+[https://docs.google.com/presentation/d/10QaO9KH8HtUXj__81ve0SZcpO5DbMbqqQr4iPpbwKks/edit?usp=sharing](https://docs.google.com/presentation/d/1joHsI0JIZWYRWBveIRM8Qj2hoRFw-oNhHvMKiCAOZcM/edit#slide=id.g29f43f0a72_0_15)
 
 to address the following: 
 
@@ -132,7 +132,7 @@ to address the following:
 <br /> &ensp;(2) Flex Direction: to control the direction of the flex container's main axis.
 <br /> &ensp;(3) Hover Effects: to add transitions and style changes on hover
 <br /> &ensp;(4) Scrollbar Styling: to custom styles applied to scrollbar elements by using:
-<br /> &ensp;    webkit-scrollbar, webkit-scrollbar-thumb, and webkit-scrollbar-track pseudo-elements.
+<br /> &emsp;    webkit-scrollbar, webkit-scrollbar-thumb, and webkit-scrollbar-track pseudo-elements.
 <br /> &ensp;(5) Transition Effects: applied for smooth animation effects in certain interactions.
 <br /> &ensp;(6) Positioning: to use positioning elements, and z-index to control the stacking order of elements.
 <br /> &ensp;(7) Cursor Styles: to change the cursor style on buttons.
@@ -146,9 +146,9 @@ to address the following:
 
 ![JQuery](https://img.shields.io/badge/JavaScriptUILibrary-JQuery-red)
 <br /> &ensp;(1) The code extensively uses jQuery for DOM manipulation, AJAX requests, and event handling.
-<br /> &ensp;(a) Promises: are used for handling asynchronous operations, such as AJAX requests.
-<br /> &ensp;(b) Scroll Animation: using jQuery to smoothly scroll to a specific element.
-<br /> &ensp;(c) Event listeners: to handle various user interactions, such as button clicks/search bar actions.
+<br /> &emsp;(a) Promises: are used for handling asynchronous operations, such as AJAX requests.
+<br /> &emsp;(b) Scroll Animation: using jQuery to smoothly scroll to a specific element.
+<br /> &emsp;(c) Event listeners: to handle various user interactions, such as button clicks/search bar actions.
 <br /> &ensp;https://code.jquery.com/jquery-3.4.1.min.js
 <br /> &ensp;https://code.jquery.com/jquery-3.6.0.min.js
 <br /> &ensp;https://code.jquery.com/jquery-3.7.1.min.js
