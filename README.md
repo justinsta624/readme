@@ -89,18 +89,18 @@ front-end application that you’ll be able to showcase to potential employers.
 The user story and acceptance criteria will depend on the project that you create, but your project must
 fulfil the following requirements:
 
-&ensp;* Use a CSS framework other than Bootstrap.
-&ensp;* Be deployed to GitHub Pages.
-&ensp;* Be interactive (i.e., accept and respond to user input).
-&ensp;* Use at least two [server-side APIs]
-&ensp;  https://coding-boot-camp.github.io/full-stack/apis/api-resources 
-&ensp;* Does not use alerts, confirms, or prompts (use modals).
-&ensp;* Use client-side storage to store persistent data.
-&ensp;* Be responsive.
-&ensp;* Have a polished UI.
-&ensp;* Have a clean repository that meets quality coding standards
-&ensp;  (file structure, naming, follows class/id naming, indentation, quality comments, etc.).
-&ensp;* Have a quality README (unique name, description, technologies, screenshot, and deployed application).
+* Use a CSS framework other than Bootstrap.
+* Be deployed to GitHub Pages.
+* Be interactive (i.e., accept and respond to user input).
+* Use at least two [server-side APIs]
+  https://coding-boot-camp.github.io/full-stack/apis/api-resources 
+* Does not use alerts, confirms, or prompts (use modals).
+* Use client-side storage to store persistent data.
+* Be responsive.
+* Have a polished UI.
+* Have a clean repository that meets quality coding standards
+  (file structure, naming, follows class/id naming, indentation, quality comments, etc.).
+* Have a quality README (unique name, description, technologies, screenshot, and deployed application).
 
 
 ## Presentation Requirements
@@ -110,13 +110,13 @@ https://docs.google.com/presentation/d/10QaO9KH8HtUXj__81ve0SZcpO5DbMbqqQr4iPpbw
 
 to address the following: 
 
-&ensp;* Elevator pitch: a one minute description of your application
-&ensp;* Concept: What is your user story? What was your motivation for development?
-&ensp;* Process: What were the technologies used? How were tasks and roles broken down and assigned?
-&ensp;  What challenges did you encounter? What were your successes?
-&ensp;* Demo: Show your stuff!
-&ensp;* Directions for Future Development
-&ensp;* Links to the deployed application and the GitHub repository
+* Elevator pitch: a one minute description of your application
+* Concept: What is your user story? What was your motivation for development?
+* Process: What were the technologies used? How were tasks and roles broken down and assigned?
+  What challenges did you encounter? What were your successes?
+* Demo: Show your stuff!
+* Directions for Future Development
+* Links to the deployed application and the GitHub repository
 
 
 ## Technologies & Sources used for the project
@@ -180,7 +180,6 @@ to address the following:
 
 ![JSON](https://img.shields.io/badge/LocalStorage-JSON-magenta)
 <br /> &ensp;Local Storage.Stringfy: browser's localStorage to store and retrieve favorite movies.
-<br />
 <br />
 <br />
 
