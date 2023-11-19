@@ -1,6 +1,6 @@
-# Project by Group 2: 
+## <style="color:purple;"> Group Project: </h1> 
 
-## Movie Recommendation Application
+## Group 2 - Movie Recommendation Application
 
 ![Bootstrap](https://img.shields.io/badge/CSSFrameworks-Bootstrap-blueviolet)
 ![JQuery](https://img.shields.io/badge/JavaScriptUILibrary-JQuery-red)
