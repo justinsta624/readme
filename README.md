@@ -12,9 +12,12 @@
 <br />
 <br />
 [Live URL of Movie Recommendation Application](https://teamprojectmoviereview.github.io/Team-Project-)
+<br />
+<br />
+
 
 ## Introduction
-
+```
 This is our movie trailer platform.
 
 This is where you can be the next potential movie critic and enthusiast.
@@ -40,9 +43,10 @@ working to improve and enhance user engagement.
 
 It’s like a free show where you can access as many captivating and user engaging trailers
 you may possibly desire.
+```
 
 ## Motivation for development
-
+```
 We created this project because of the increase in the current movie market and to create a user
 friendly environment to help individuals to browse trailers and choose specific movies they would prefer.
 
@@ -63,9 +67,10 @@ weather they’d like to go view this movie.
 Another reason for this project is by adding these external API’s, alongside with meeting project
 requirements, we’ve been able to integrate high quality content for users and allows them to find exactly
 what they are looking for.
+```
 
 ## User Story
-
+```
 Being the movie enthusiasts that we are, we were aiming to create a website that makes it easier for
 us to view and easily navigate through an extensive collection of movies to pick and chose.
 
@@ -74,8 +79,9 @@ own convenience, for when we obtain a chance to view and watch a movie.This webs
 section for my chosen trailers, allowing me to save and revisit at my own discretion.
 
 It enables me to easily explore endless movies, many unheard of, all while keeping the website engaging.
+```
 
-## Project Requirements
+# Project Requirements
 
 You and your group will use everything you’ve learned over the past six modules to create a real-world
 front-end application that you’ll be able to showcase to potential employers.
@@ -97,7 +103,7 @@ fulfil the following requirements:
 * Have a quality README (unique name, description, technologies, screenshot, and deployed application).
 
 
-## Presentation Requirements
+# Presentation Requirements
 
 Use this [project presentation template]
 https://docs.google.com/presentation/d/10QaO9KH8HtUXj__81ve0SZcpO5DbMbqqQr4iPpbwKks/edit?usp=sharing
@@ -116,13 +122,13 @@ to address the following:
 ## Technologies & Sources used for the project
 <br />
 ![HTML](https://img.shields.io/badge/Structure-HTML-green)
-```
+
 (1) The structure of the document is defined using HTML5 elements
 <br /> (2) Iframes: the source pointing to embed YouTube videos for movie trailers.
 <br />
-```
+
 ![CSS](https://img.shields.io/badge/Style-CSS-green)
-```
+
 (1) Flexbox: to create flexible box layouts for class elements & aside
 <br /> (2) Flex Direction: to control the direction of the flex container's main axis.
 <br /> (3) Hover Effects: to add transitions and style changes on hover
@@ -133,11 +139,11 @@ to address the following:
 <br /> (7) Cursor Styles: to change the cursor style on buttons.
 <br /> (8) Object Fit: to control how an image or video should be resized to fit its container.
 <br /> (9) Opacity: to control the transparency of certain elements.
-```
 
 <br /> The Bootstrap framework is included via a CDN link 
 <br /> https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css
 <br /> https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
+<br />
 
 ![JQuery](https://img.shields.io/badge/JavaScriptUILibrary-JQuery-red)
 ```
@@ -149,30 +155,35 @@ The code extensively uses jQuery for DOM manipulation, AJAX requests, and event 
 <br /> https://code.jquery.com/jquery-3.4.1.min.js
 <br /> https://code.jquery.com/jquery-3.6.0.min.js
 <br /> https://code.jquery.com/jquery-3.7.1.min.js
+<br />
 
 ![Bootstrap](https://img.shields.io/badge/CSSFrameworks-Bootstrap-blueviolet) via a CDN link:
 <br /> https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js
 <br /> https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js
+<br />
 
-![APIKEY](https://img.shields.io/badge/ServerSideAPIs-Youtube-fcba03) "AIzaSyCd2r7TY9q5D4-3SayVQpKcYuM6mkdLdBg"
+![APIKEY](https://img.shields.io/badge/ServerSideAPIs-Youtube-fcba03)
 ```
-<br /> The code interacts with the Open Movie Database (OMDb) API to fetch movie data.
+The code interacts with the Open Movie Database (OMDb) API to fetch movie data.
 ```
 <br /> https://www.googleapis.com/youtube/v3/search?part=snippet&q=${encodeURIComponent(query)}
 <br /> https://www.googleapis.com/youtube/v3/videos?id=${videoId}&part=contentDetails&key=${apiKey}
 <br /> https://www.youtube.com/embed/${videoId}?start=${startTime}&autoplay=1
+<br />
 
-![APIKEY](https://img.shields.io/badge/ServerSideAPIs-OMDb-fcba03) "7b82484f"
+![APIKEY](https://img.shields.io/badge/ServerSideAPIs-OMDb-fcba03)
 ```
-<br /> The code uses the YouTube API to search for movie trailers and fetch details.
+The code uses the YouTube API to search for movie trailers and fetch details.
 ```
 <br /> https://www.omdbapi.com/?apikey=${omdbApiKey}&s=${searchTerm}
 <br /> https://www.omdbapi.com/?i=${movie.dataset.id}&apikey=7b82484f
 <br /> https://omdbapi.com/?s=${searchTerm}&page=1&apikey=7b82484f
+<br />
 
 ![JSON](https://img.shields.io/badge/LocalStorage-JSON-magenta)
 ```
 <br /> Local Storage: The code uses the browser's localStorage to store and retrieve favorite movies.
+<br />
 ```
 
 ## Directions for Future Development
