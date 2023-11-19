@@ -1,4 +1,4 @@
-## <style="color:purple;"> Group Project: </h1> 
+## Group Project:
 
 ## Group 2 - Movie Recommendation Application
 
