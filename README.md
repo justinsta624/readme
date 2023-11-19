@@ -17,14 +17,16 @@
 This is our movie trailer platform.
 
 This is where you can be the next potential movie critic and enthusiast.
-Our users get to view more movie trailers they can possibly comprehend to find the next
-perfect movie for them. Using and integrating Youtube API and ODMP API, you get access from
-blockbuster films to hidden gems to movies 20 years old and beyond.
 
-What makes us unique and different from other sources is that you’re not just a viewer
-but you’re also a creator. By choosing and saving your favorite movies you get to create
-a trailer environment that is just specifically enhanced and handpicked for you. Easily 
-save your favorite trailers, creating a personalized collection that perfectly reflects your
+Our users get to view more movie trailers they can possibly comprehend to find the next perfect movie
+for them. Using and integrating Youtube API and ODMP API, you get access from blockbuster films
+to hidden gems to movies 20 years old and beyond.
+
+What makes us unique and different from other sources is that you’re not just a viewer but you’re
+also a creator. By choosing and saving your favorite movies you get to create a trailer environment
+that is just specifically enhanced and handpicked for you.
+
+Easily save your favorite trailers, creating a personalized collection that perfectly reflects your
 unique taste. It's a personalized library that you’ve hand chosen to be your own movie sanctuary.
 
 Our platform is more than just watching trailers and discovering your next favorite trailer,
