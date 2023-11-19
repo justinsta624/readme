@@ -29,9 +29,9 @@ that is just specifically enhanced and handpicked for you.
 Easily save your favorite trailers, creating a personalized collection that perfectly reflects your
 unique taste. It's a personalized library that you’ve hand chosen to be your own movie sanctuary.
 
-Our platform is more than just watching trailers and discovering your next favorite trailer,
-its a community, allowing you to go out into the world and engage with fellow movie enthusiasts
-and watch new trailers together.
+Our platform is more than just watching trailers and discovering your next favorite trailer, its a
+community, allowing you to go out into the world and engage with fellow movie enthusiasts and
+watch new trailers together.
 
 Allow our website to help you uncover hidden gems and cinematic treasures to find new movies and new
 recommendations with the latest data and movies . This is just a beginning, we are constantly
@@ -56,14 +56,14 @@ be a great way to further enhance this project. Movie trailers are also a great 
 captivate user audiences pulling them into their own movie world. Our website and our motivation also
 lies in the great diversity within our site.
 
-Allowing discover films they might have otherwise never known existed, or a genre they might like
-which they had not thought about. With today’s consumer behavior of preferring bite size and visually
+Allowing discover films they might have otherwise never known existed, or a genre they might like which
+they had not thought about. With today’s consumer behavior of preferring bite size and visually
 appealing content, our website is ideal as it allows users to watch trailers and decide on their own
 weather they’d like to go view this movie.
 
 Another reason for this project is by adding these external API’s, alongside with meeting project
-requirements, we’ve been able to integrate high quality content for users and allows them to find
-exactly what they are looking for.
+requirements, we’ve been able to integrate high quality content for users and allows them to find exactly
+what they are looking for.
 ```
 
 # User Story
@@ -74,24 +74,24 @@ us to view and easily navigate through an extensive collection of movies to pick
 
 We also wanted a way to save possible movies into local storage to be able to revisit them at our
 own convenience, for when we obtain a chance to view and watch a movie.This website allows me curated
-section
-for my chosen trailers, allowing me to save and revisit at my own discretion. It enables me to easily
-explore endless movies, many unheard of, all while keeping the website engaging.
+section for my chosen trailers, allowing me to save and revisit at my own discretion.
+
+It enables me to easily explore endless movies, many unheard of, all while keeping the website engaging.
 ```
 
-# Project Requirements
+## Project Requirements
 
-```
-You and your group will use everything you’ve learned over the past six modules to create a
-real-world front-end application that you’ll be able to showcase to potential employers.
-The user story and acceptance criteria will depend on the project that you create,
-but your project must fulfil the following requirements:
+You and your group will use everything you’ve learned over the past six modules to create a real-world
+front-end application that you’ll be able to showcase to potential employers.
+
+The user story and acceptance criteria will depend on the project that you create, but your project must
+fulfil the following requirements:
 
 * Use a CSS framework other than Bootstrap.
 * Be deployed to GitHub Pages.
 * Be interactive (i.e., accept and respond to user input).
 * Use at least two [server-side APIs]
-  (https://coding-boot-camp.github.io/full-stack/apis/api-resources).
+  https://coding-boot-camp.github.io/full-stack/apis/api-resources 
 * Does not use alerts, confirms, or prompts (use modals).
 * Use client-side storage to store persistent data.
 * Be responsive.
@@ -99,13 +99,12 @@ but your project must fulfil the following requirements:
 * Have a clean repository that meets quality coding standards
   (file structure, naming, follows class/id naming, indentation, quality comments, etc.).
 * Have a quality README (unique name, description, technologies, screenshot, and deployed application).
-```
 
-# Presentation Requirements
 
-```
+## Presentation Requirements
+
 Use this [project presentation template]
-(https://docs.google.com/presentation/d/10QaO9KH8HtUXj__81ve0SZcpO5DbMbqqQr4iPpbwKks/edit?usp=sharing)
+https://docs.google.com/presentation/d/10QaO9KH8HtUXj__81ve0SZcpO5DbMbqqQr4iPpbwKks/edit?usp=sharing
 
 to address the following: 
 
@@ -116,17 +115,15 @@ to address the following:
 * Demo: Show your stuff!
 * Directions for Future Development
 * Links to the deployed application and the GitHub repository
-```
+
 
 ## Technologies & Sources used for the project
 
-```
 1. ![HTML](https://img.shields.io/badge/Structure-HTML-green)
 
 (1) The structure of the document is defined using HTML5 elements
 (2) Iframes: the source pointing to embed YouTube videos for movie trailers.
-```
-```
+
 2. ![CSS](https://img.shields.io/badge/Style-CSS-green)
 
 (1) Flexbox: to create flexible box layouts for class elements & aside
@@ -144,8 +141,7 @@ to address the following:
 <br /> The Bootstrap framework is included via a CDN link 
 <br /> https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css
 <br /> https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
-```
-```
+
 3. ![JavaScript](https://img.shields.io/badge/Function-JavaScript-indigo)
 
 (1) ![JQuery](https://img.shields.io/badge/JavaScriptUILibrary-JQuery-red)
@@ -162,26 +158,49 @@ Event listeners: to handle various user interactions, such as button clicks/sear
 <br /> https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js
 
 (3) The custom JavaScript file is included using "./assets/script.js"
-```
-```
+
 4. ![APIKEY](https://img.shields.io/badge/ServerSideAPIs-Youtube-fcba03) "AIzaSyCd2r7TY9q5D4-3SayVQpKcYuM6mkdLdBg"
 The code interacts with the Open Movie Database (OMDb) API to fetch movie data.
 <br />https://www.googleapis.com/youtube/v3/search?part=snippet&q=${encodeURIComponent(query)}
 <br />https://www.googleapis.com/youtube/v3/videos?id=${videoId}&part=contentDetails&key=${apiKey}
 <br />https://www.youtube.com/embed/${videoId}?start=${startTime}&autoplay=1
-```
-```
+
 5. ![APIKEY](https://img.shields.io/badge/ServerSideAPIs-OMDb-fcba03) "7b82484f"
 The code uses the YouTube API to search for movie trailers and fetch details.
 <br />(https://www.omdbapi.com/?apikey=${omdbApiKey}&s=${searchTerm})
 <br />(https://www.omdbapi.com/?i=${movie.dataset.id}&apikey=7b82484f)
 <br />(https://omdbapi.com/?s=${searchTerm}&page=1&apikey=7b82484f)
-```
-```
+
 6. ![JSON](https://img.shields.io/badge/LocalStorage-JSON-magenta)
 <br />Local Storage: The code uses the browser's localStorage to store and retrieve favorite movies.
-```
 
+## Directions for Future Development
+```
+An aspect for future development is to add watch history to allow users to be able to find a possible
+movie that they may have “lost”. 
+
+This website can also be enhanced by adding additional API’s to fetch live user reviews and ratings 
+based on certain movies. We intend to continuously enhance our website possibly creating a mobile
+application, so users will be able to watch trailers for potential movies on the go and save for later
+preference. 
+
+We can also go ahead and potentially create partnerships so our website is redirected to a possible movie
+website such as Netflix or Disney+. Another possibility for future development is to add a downloading feature 
+to allow users to download their favourite trailers for offline viewing to allow them to access on possible 
+travels so they know which movie is next on their watch list. 
+
+For other possibilities is adding a real time virtual watch parties to allow users to be able to to watch and
+chat in real time. If possible they may be allowed to rate movies in real time. 
+
+If this website is a success we can proceed to add an additional website to present the actual movies people
+would like to watch, and possibly adding a cheap user friendly website that allows individuals to save and present
+movies to their peers. This would mean an addition of being able to share trailers and websites on multiple social
+platform. 
+
+Overall there’s potential for this website to grow in multiple directions that will have to be tackled one at a time.
+
+This website is a great starter and as members of his team we are very proud to present our website!
+```
 # Source Information
 
 1. ![Bootstrap](https://img.shields.io/badge/FrontendFrameworks-Bootstrap-blueviolet)
