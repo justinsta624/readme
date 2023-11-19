@@ -15,8 +15,10 @@
 <br />
 <br />
 
-## <summary>Introduction</summary>
-<details open>  
+<details open>;
+  
+## <summary>Introduction </summary>
+
 <br />
 
 ```
@@ -48,9 +50,11 @@ you may possibly desire.
 ```
 </details>
 
+
+<details open>;
   
 ## <summary>Motivation for development</summary>
-<details open>
+
 <br />
 
 
