@@ -8,7 +8,7 @@
 [![JSON](https://img.shields.io/badge/LocalStorage-JSON-magenta)](#JSON)
 
 # Object-oriented Programming: SVG Logo Maker
-    
+![Contributor](https://img.shields.io/badge/Contributor-HanbyeolLee-purple)
 [![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/license/MIT)
 ![GitHub](https://img.shields.io/badge/GitHub-justinsta624-yellow)
 ![Test](https://img.shields.io/badge/Test-Jest@29.7.0-green)
