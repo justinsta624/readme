@@ -7,6 +7,15 @@
 [![Youtube/OMDb](https://img.shields.io/badge/ServerSideAPIs-Youtube/OMDb-fcba03)](#OMBD)
 [![JSON](https://img.shields.io/badge/LocalStorage-JSON-magenta)](#JSON)
 
+# Object-oriented Programming: SVG Logo Maker
+    
+  ![Contributor](https://img.shields.io/badge/Contributor-HanbyeolLee-purple)
+  [![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/license/MIT)
+  ![GitHub](https://img.shields.io/badge/GitHub-justinsta624-yellow)
+  ![Test](https://img.shields.io/badge/Test-Jest-green)
+  ![Module](https://img.shields.io/badge/Module-FS-magenta)  
+  ![Installation](https://img.shields.io/badge/Installation-Inquirer-red)
+
 
 ![image](https://github.com/TeamProjectMovieReview/Team-Project-/assets/143357899/a9e53f48-1584-4cee-baa3-e133a93e56ee)
 <br />
