@@ -1,6 +1,6 @@
 # ⭐ Structured Query Language: Employee Tracker ⭐
     
-![Contributor](https://img.shields.io/badge/Contributor-HanbyeolLee-purple)
+![Contributor](https://img.shields.io/badge/Contributor-Hanbyeol(Justin)Lee-purple)
 [![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/license/MIT)
 ![GitHub](https://img.shields.io/badge/GitHub-justinsta624-yellow)
 ![DataBase](https://img.shields.io/badge/DataBase-MySql2-green)
