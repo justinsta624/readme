@@ -1,103 +1,77 @@
-# ⭐ Structured Query Language: Employee Tracker ⭐
+# ⭐ Object-Relational Mapping : E-Commerce Back End ⭐
     
 ![Contributor](https://img.shields.io/badge/Contributor-Hanbyeol(Justin)Lee-purple)
 [![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/license/MIT)
-![GitHub](https://img.shields.io/badge/GitHub-justinsta624-yellow)
+![ORMLibrary](https://img.shields.io/badge/ORMLibrary-Sequelize-yellow)
 ![DataBase](https://img.shields.io/badge/DataBase-MySql2-green)
-![Module](https://img.shields.io/badge/Module-Dotenv-magenta)
-![Installation](https://img.shields.io/badge/Installation-Inquirer@8.2.4-red)
+![Secure](https://img.shields.io/badge/Secure-Dotenv-magenta)
+![Application](https://img.shields.io/badge/Application-Express.js-red)
 
 ## Outcome
 
-Followings are the outcomes of the challenge 12:
+Followings are the outcomes of the challenge 13:
 
-* A walkthrough video demonstrating the functionality of the application. </br>
+* A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met. </br>
 [Walk-Through Video: Webm file](https://drive.google.com/file/d/1DesRcjh71bOVOYdFWXmtrp2ilY5Ni-Oo/view) </br>
 [Walk-Through Video: GIF file](https://github.com/justinsta624/MeetyourSVGMaker/blob/main/outcome/231210_Walk-Through-Video_Challenge10_H.LEE.gif)
 </br>
 
 * The URL of the GitHub repository, with a unique name and a README describing the project </br>
-[Repository for this challenge](https://github.com/justinsta624/EmpTracker)
+[Repository for this challenge](https://github.com/justinsta624/ORMeCOMBackend)
 </br>
 
 ## User Story
 
 ```md
-AS A business owner
-I WANT to be able to view and manage the departments, roles, and employees in my company
-SO THAT I can organize and plan my business
+AS A manager at an internet retail company
+I WANT a back end for my e-commerce website that uses the latest technologies
+SO THAT my company can compete with other e-commerce companies
 ```
 
 ## Acceptance Criteria
 
 ```md
-GIVEN a command-line application that accepts user input
-WHEN I start the application
-THEN I am presented with the following options: view all departments, view all roles, view all employees,
-add a department, add a role, add an employee, and update an employee role
-WHEN I choose to view all departments
-THEN I am presented with a formatted table showing department names and department ids
-WHEN I choose to view all roles
-THEN I am presented with the job title, role id, the department belongs to, and the salary for that role
-WHEN I choose to view all employees
-THEN I am presented with a formatted table showing employee data, including employee ids, first names,
-last names, job titles, departments, salaries, and managers that the employees report to
-WHEN I choose to add a department
-THEN I am prompted to enter the name of the department and that department is added to the database
-WHEN I choose to add a role
-THEN I am prompted to enter the name, salary, and department for the role which is added to the database
-WHEN I choose to add an employee
-THEN I am prompted to enter the employee’s first name, last name, role, and manager, and that employee
-is added to the database
-WHEN I choose to update an employee role
-THEN I am prompted to select an employee to update and their new role and this information is updated
-in the database 
+GIVEN a functional Express.js API
+WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
+THEN I am able to connect to a database using Sequelize
+WHEN I enter schema and seed commands
+THEN a development database is created and is seeded with test data
+WHEN I enter the command to invoke the application
+THEN my server is started and the Sequelize models are synced to the MySQL database
+WHEN I open API GET routes in Insomnia for categories, products, or tags
+THEN the data for each of these routes is displayed in a formatted JSON
+WHEN I test API POST, PUT, and DELETE routes in Insomnia
+THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## What to expect for this challenge?
 
-* To create interfaces **content management systems (CMS)** that allow non-developers to easily view and interact with information stored in databases.
-* To build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
-* Your application should use [Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4) to interact with the user via the command line.
-* You’ll need to use the [MySQL2 package](https://www.npmjs.com/package/mysql2) to connect to your MySQL database and perform queries.
+* To build the back end for an e-commerce site by modifying starter code
+* To configure a working Express.js API to use Sequelize to interact with a MySQL database
+* Your application should use [MySQL2](https://www.npmjs.com/package/mysql2) and [Sequelize](https://www.npmjs.com/package/sequelize) packages to connect your Express.js API to a MySQL database and the [dotenv](https://www.npmjs.com/package/dotenv) package to use environment variables to store sensitive data.
+* Use the `schema.sql` file in the `db` folder to create your database with MySQL shell commands. Use environment variables to store sensitive data like your MySQL username, password, and database name.
 * To provide a link to a walkthrough video that demonstrates its functionality and passes all of the tests. </br>
   [Video Submission Guide](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide)
-* You might also want to make your queries asynchronous. MySQL2 exposes a `.promise()` function on Connections to upgrade an existing non-Promise connection to use Promises. To learn more and make your queries asynchronous, refer to the [npm documentation on MySQL2](https://www.npmjs.com/package/mysql2).
+* Your walkthrough video should also shows the application's GET routes to return all -and- single categories, products, and tags being tested in Insomnia.
+* Your walkthrough video should also shows the application's POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia.
 
+### Associations
 
-## Design the database schema:
+You'll need to execute association methods on your Sequelize models to create the following relationships between them:
+* `Product` belongs to `Category`, and `Category` has many `Product` models, as a category can have multiple products but a product can only belong to one category.
+* `Product` belongs to many `Tag` models, and `Tag` belongs to many `Product` models. Allow products to have multiple tags and tags to have many products by using the `ProductTag` through model.
+> **Hint:** Make sure you set up foreign key relationships that match the column we created in the respective models.
 
-Your schema should contain the following three tables:
+### Fill Out the API Routes to Perform RESTful CRUD Operations
+Fill out the unfinished routes in `product-routes.js`, `tag-routes.js`, and `category-routes.js` to perform create, read, update, and delete operations using your Sequelize models.
+Note that the functionality for creating the many-to-many relationship for products has already been completed for you.
+> **Hint**: Be sure to look at the mini-project code for syntax help and use your model's column definitions to figure out what `req.body` will be for POST and PUT routes!
 
-* `department`
-    * `id`: `INT PRIMARY KEY`
-    * `name`: `VARCHAR(30)` to hold department name
+### Seed the Database
+After creating the models and routes, run `npm run seed` to seed data to your database so that you can test your routes.
 
-* `role`
-    * `id`: `INT PRIMARY KEY`
-    * `title`: `VARCHAR(30)` to hold role title
-    * `salary`: `DECIMAL` to hold role salary
-    * `department_id`: `INT` to hold reference to department role belongs to
-
-* `employee`
-    * `id`: `INT PRIMARY KEY`
-    * `first_name`: `VARCHAR(30)` to hold employee first name
-    * `last_name`: `VARCHAR(30)` to hold employee last name
-    * `role_id`: `INT` to hold reference to employee role
-    * `manager_id`: `INT` to hold reference to another employee that is the manager of the current employee (`null` if the employee has no manager)
-
-
-You might want to use a separate file that contains functions for performing specific SQL queries you'll need to use. A constructor function or class could be helpful for organizing these. 
-You might also want to include a `seeds.sql` file to pre-populate your database, making the development of individual features much easier.
-
-
-* `additional functionality`
-    * Update employee managers.
-    * View employees by manager.
-    * View employees by department.
-    * Delete departments, roles, and employees.
-    * View the total utilized budget of a department&mdash;in other words, the combined salaries of all employees in that department.
-
+### Sync Sequelize to the Database on Server Start
+Create the code needed in `server.js` to sync the Sequelize models to the MySQL database on server start.
 
 ## Review
 
@@ -107,6 +81,21 @@ You are required to submit the following for review:
 
 ---
 
+
+
+
+
+
+## Review
+
+You are required to submit BOTH of the following for review:
+
+* A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.
+
+* The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project.
+
+---
+© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 
 
 
