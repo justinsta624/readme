@@ -63,7 +63,7 @@ Ensure overall platform performance and scalability. </div>
 
 ## Table of Contents
 
-- [Goal of the Project](#Goal of the Project)
+- [Goal of the Project](#Goal-of-the-Project)
 - [Description](#Description)
 - [User Story](#User-Story)
 - [Acceptance Criteria](#Acceptance-Criteria)
