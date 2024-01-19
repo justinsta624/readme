@@ -15,7 +15,7 @@
 </div>
 </div>
 
-## Goal
+## Goal of the Project
 
 * Essential role of projects in the journey to becoming a full-stack web developer.
 * First opportunity to demonstrate collaborative skills and coding abilities to employers.
@@ -63,7 +63,7 @@ Ensure overall platform performance and scalability. </div>
 
 ## Table of Contents
 
-- [Goal](#Goal)
+- [Goal of the Project](#Goal of the Project)
 - [Description](#Description)
 - [User Story](#User-Story)
 - [Acceptance Criteria](#Acceptance-Criteria)
