@@ -127,7 +127,8 @@ WHEN there are updates or events related to favorite games
 THEN the platform should implement a notification system to inform users promptly.
 
 WHEN a user interacts with the backend
-THEN the platform should have a robust backend system efficiently handling user requests, updating the game database, and ensuring overall performance.
+THEN the platform should have a robust backend system efficiently handling user requests, updating
+the game database, and ensuring overall performance.
 ```
 
 ## How to Use
@@ -196,7 +197,7 @@ Github Deployment link:
 
 Heroku Deployment link:
 
-
+---
 
 ## Description
 
