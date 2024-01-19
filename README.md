@@ -28,48 +28,47 @@
 
 ## Description
 
-* `Intuitive User Interface`
+* `Intuitive User Interface`</div> 
 Create a user-friendly interface for seamless navigation.
 Ensure responsiveness across various devices and screen sizes.
-
-* 'Diverse Game Collection'
+* `Diverse Game Collection`
 Curate an extensive game collection categorized by genres.
 Display relevant information such as genre, release date, and brief descriptions.
 
-* Integration of Game APIs:
+* `Integration of Game APIs`</div>
 Implement APIs to fetch and display game details, including trailers and reviews.
 Integrate with external platforms for an enriched gaming experience.
 
-* Interactive Game Trailers:
+* `Interactive Game Trailers`</div>
 Develop an interactive section for game trailers with auto-play and full-screen options.
 Include features for user comments and sharing of trailers.
 
-* Search and Recommendation System:
+* `Search and Recommendation System`</div>
 Design a search box with autocomplete functionality.
 Integrate a drop-down box with suggested games based on user preferences and trends.
 
-* Favorite Games Section:
+* `Favorite Games Section`</div>
 Enable users to create and manage a personalized list of favorite games.
 Implement local storage for saving and retrieving user-selected favorites.
 
-* User Authentication:
+* `User Authentication`</div>
 Implement a secure user authentication system with encrypted passwords.
 Allow users to create accounts, log in, and manage profiles securely.
 
-* Social Integration:
+* `Social Integration`</div>
 Enable social media sharing options for game-related activities and achievements.
 
-* Feedback and Rating System:
+* `Feedback and Rating System`</div>
 Create a user feedback and rating system for games.
 Display average ratings and reviews to assist users in decision-making.
 
-* Multiplayer Functionality:
+* `Multiplayer Functionality`</div>
 Incorporate features for multiplayer engagement, including connecting with friends and joining gaming communities.
 
-* Notifications and Updates:
+* `Notifications and Updates`</div>
 Implement a notification system for new game releases, updates, and events.
 
-* Responsive Backend:
+* `Responsive Backend`</div>
 Develop a robust backend system for efficient user request handling and database management.
 Ensure overall platform performance and scalability.
 
