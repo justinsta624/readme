@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Huber's Tech Blog
+# Gamersheim: Interactive Full-Stack Project
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=mit)](https://opensource.org/licenses/MIT)
 [![Node.js Badge](https://img.shields.io/badge/Node.js-393?style=for-the-badge&logo=nodedotjs&logoColor=fff)](https://nodejs.org/en)
@@ -10,10 +10,153 @@
 [![Express Badge](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Bcrypt Badge](https://img.shields.io/badge/Bcrypt-338?style=for-the-badge&logo=javascript&logoColor=white)](https://www.npmjs.com/package/bcrypt)
 [![Dotenv Badge](https://img.shields.io/badge/Dotenv-000?style=for-the-badge&logo=javascript&logoColor=white)](https://www.npmjs.com/package/dotenv)
-[![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Sequelize Badge](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white](https://www.npmjs.com/package/sequelize)
+[![Handlebar Badge](https://img.shields.io/badge/Handlebars%20js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black](https://www.npmjs.com/package/handlebars)
 
-Challenge 14 - Model View Controller (MVC)
 </div>
+
+# Gamersheim Interactive-Full-Stack-Project
+
+Home of Gamers
+
+
+## Table of Contents
+
+- [Description](#Description)
+- [User Story](#User-Story)
+- [Acceptance Criteria](#Acceptance-Criteria)
+- [How to Use](#how-to-use)
+- [Technology Used](#technology-used)
+- [License](#license)
+- [References](#references)
+- [Walkthrough Video](#Walkthrough-Video)
+- [Collaborators](#Collaborators)
+
+## Description
+
+* Projects play a key role in your journey to becoming a full-stack web developer. As you enter the last phase of the boot camp, you’ll begin to apply for development jobs. If you want to land interviews, your portfolio must feature high-quality deployed examples of your work—-and you can use your finished projects for that very purpose.
+
+* As your first opportunity to show employers your collaborative skills and coding abilities, this particular project will be a focal point of your portfolio. Employers want to see what you can do, but they also want to see how you work with other developers. The more examples of deployed collaborative work you have in your portfolio, the more likely you are to get an interview and a job.
+
+## User Story
+
+```
+As a gaming enthusiast, I want to access an interactive full-stack game platform that provides a seamless and engaging experience, allowing me to discover, play, and organize my favorite games effortlessly.
+```
+
+## Acceptance Criteria
+
+```
+1) Intuitive User Interface:
+The platform should feature a user-friendly interface with easy navigation to enhance the overall user experience. Ensure a responsive design that adapts to various devices and screen sizes.
+
+2) Diverse Game Collection:
+Include an extensive collection of games, categorized into genres for easy exploration.
+Provide relevant information about each game, including genre, release date, and a brief description.
+
+3) Integration of Game APIs:
+Implement APIs to fetch and display game details, including trailers, screenshots, and reviews.
+Ensure seamless integration with external platforms for an enriched gaming experience.
+
+4) Interactive Game Trailers:
+Create an interactive section dedicated to game trailers, allowing users to watch and engage with the latest game previews.
+Implement features such as auto play, full-screen mode, and the ability to comment or share trailers.
+
+5) Search and Recommendation System:
+Develop a search box with autocomplete functionality, offering game recommendations as users type.
+Integrate a drop-down box with suggested games based on user preferences and popular trends.
+
+6) Favorite Games Section:
+Provide users with the ability to create a personalized list of favorite games.
+Implement local storage to save and retrieve the user's favorite games for future references.
+
+7) User Authentication:
+Implement a secure user authentication system, allowing users to create accounts, log in, and manage their profiles. Ensure password encryption and secure storage of user information.
+
+8) Social Integration:
+Enable social media sharing options for users to share their favorite games or achievements on various platforms.
+
+9) Feedback and Rating System:
+Implement a user feedback and rating system, allowing users to rate and review games.
+Display average ratings and reviews for each game to help users make informed decisions.
+
+10) Multiplayer Functionality:
+Incorporate multiplayer features, allowing users to connect with friends, join gaming communities, and engage in multiplayer games.
+
+11) Notifications and Updates:
+Implement a notification system to inform users about new game releases, updates, or events related to their favorite games.
+
+12) Responsive Backend:
+Develop a robust backend system that efficiently handles user requests, updates the game database, and ensures the platform's overall performance.
+```
+
+## How to Use
+
+
+### Installation
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+
+### Usage:
+
+
+
+## Technology-Used
+
+- **Node.js**: Runtime environment for executing server-side JavaScript code.
+- **Express**: Web application framework for building RESTful APIs.
+- **Express-Handlebars**: Template engine for rendering HTML templates.
+- **Express-Session**: Middleware for managing user sessions.
+- **MySQL2**: MySQL database driver for Node.js.
+- **Sequelize**: Promise-based ORM for interacting with databases.
+- **Bcrypt**: Library for securely hashing passwords.
+- **Dotenv**: Utility for loading environment variables.
+- **JawsDB**: Providing managed MySQL databases, ideal for scalable web applications.
+- **Heroku**: A cloud platform that offers easy deployment and management of web applications.
+
+## License
+
+For details click on the following link to go to the "LICENSE" file:
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=mit)](https://opensource.org/licenses/MIT)
+
+
+## References
+
+
+
+## Collaborators
+[![OzdalDogru](https://img.shields.io/badge/Ozdal-Dogru-blueviolet)](#OzdalDogru)
+[![AllanYuen](https://img.shields.io/badge/Allan-Yuen-red)](#AllanYuen)
+[![MatthewBeaubien](https://img.shields.io/badge/Matthew-Beaubien-green)](#MatthewBeaubien)
+[![CharlotteMarchildon](https://img.shields.io/badge/Charlotte-Marchildon-fcba03)](#CharlotteMarchildon)
+[![JustinLee](https://img.shields.io/badge/Justin-Lee-magenta)](#JustinLee)
+
+
+## Deployment
+
+Github direct link:
+https://github.com/ozdaldogru/Gamersheim-Interactive-Full-Stack-Project- 
+
+
+Github HTTPS Clone link:
+
+
+
+Github Deployment link:
+
+
+Heroku Deployment link:
+
+
 
 ## Description
 
