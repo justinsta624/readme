@@ -28,48 +28,48 @@
 
 ## Description
 
-&ensp;(1) Intuitive User Interface:
+* Intuitive User Interface:
 Create a user-friendly interface for seamless navigation.
 Ensure responsiveness across various devices and screen sizes.
 
-&ensp;(2) Diverse Game Collection:
+* Diverse Game Collection:
 Curate an extensive game collection categorized by genres.
 Display relevant information such as genre, release date, and brief descriptions.
 
-&ensp;(3) Integration of Game APIs:
+* Integration of Game APIs:
 Implement APIs to fetch and display game details, including trailers and reviews.
 Integrate with external platforms for an enriched gaming experience.
 
-&ensp;(4) Interactive Game Trailers:
+* Interactive Game Trailers:
 Develop an interactive section for game trailers with auto-play and full-screen options.
 Include features for user comments and sharing of trailers.
 
-&ensp;(5) Search and Recommendation System:
+* Search and Recommendation System:
 Design a search box with autocomplete functionality.
 Integrate a drop-down box with suggested games based on user preferences and trends.
 
-&ensp;(6) Favorite Games Section:
+* Favorite Games Section:
 Enable users to create and manage a personalized list of favorite games.
 Implement local storage for saving and retrieving user-selected favorites.
 
-&ensp;(7) User Authentication:
+* User Authentication:
 Implement a secure user authentication system with encrypted passwords.
 Allow users to create accounts, log in, and manage profiles securely.
 
-&ensp;(8) Social Integration:
+* Social Integration:
 Enable social media sharing options for game-related activities and achievements.
 
-&ensp;(9) Feedback and Rating System:
+* Feedback and Rating System:
 Create a user feedback and rating system for games.
 Display average ratings and reviews to assist users in decision-making.
 
-&ensp;(10) Multiplayer Functionality:
+* Multiplayer Functionality:
 Incorporate features for multiplayer engagement, including connecting with friends and joining gaming communities.
 
-&ensp;(11) Notifications and Updates:
+* Notifications and Updates:
 Implement a notification system for new game releases, updates, and events.
 
-&ensp;(12) Responsive Backend:
+* Responsive Backend:
 Develop a robust backend system for efficient user request handling and database management.
 Ensure overall platform performance and scalability.
 
