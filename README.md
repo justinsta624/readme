@@ -28,11 +28,11 @@
 
 ## Description
 
-* Intuitive User Interface:
+* 'Intuitive User Interface'
 Create a user-friendly interface for seamless navigation.
 Ensure responsiveness across various devices and screen sizes.
 
-* Diverse Game Collection:
+* 'Diverse Game Collection'
 Curate an extensive game collection categorized by genres.
 Display relevant information such as genre, release date, and brief descriptions.
 
