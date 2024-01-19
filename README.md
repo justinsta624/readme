@@ -13,6 +13,60 @@
 [![Handlebar Badge](https://img.shields.io/badge/Handlebars%20js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)](https://www.npmjs.com/package/handlebars)
 
 </div>
+</div>
+
+## Project Description
+
+* Essential role of projects in the journey to becoming a full-stack web developer.
+* First opportunity to demonstrate collaborative skills and coding abilities to employers.
+* Project serves as a focal point in the portfolio, highlighting teamwork.
+* Employers seek evidence of both individual capabilities and collaboration with other developers.
+* Increased chances of interviews and job offers with a portfolio featuring deployed collaborative projects.
+
+1) Intuitive User Interface:
+Create a user-friendly interface for seamless navigation.
+Ensure responsiveness across various devices and screen sizes.
+
+2) Diverse Game Collection:
+Curate an extensive game collection categorized by genres.
+Display relevant information such as genre, release date, and brief descriptions.
+
+3) Integration of Game APIs:
+Implement APIs to fetch and display game details, including trailers and reviews.
+Integrate with external platforms for an enriched gaming experience.
+
+4) Interactive Game Trailers:
+Develop an interactive section for game trailers with auto-play and full-screen options.
+Include features for user comments and sharing of trailers.
+
+5) Search and Recommendation System:
+Design a search box with autocomplete functionality.
+Integrate a drop-down box with suggested games based on user preferences and trends.
+
+6) Favorite Games Section:
+Enable users to create and manage a personalized list of favorite games.
+Implement local storage for saving and retrieving user-selected favorites.
+
+7) User Authentication:
+Implement a secure user authentication system with encrypted passwords.
+Allow users to create accounts, log in, and manage profiles securely.
+
+8) Social Integration:
+Enable social media sharing options for game-related activities and achievements.
+
+9)Feedback and Rating System:
+Create a user feedback and rating system for games.
+Display average ratings and reviews to assist users in decision-making.
+
+10) Multiplayer Functionality:
+Incorporate features for multiplayer engagement, including connecting with friends and joining gaming communities.
+
+11) Notifications and Updates:
+Implement a notification system for new game releases, updates, and events.
+
+12) Responsive Backend:
+Develop a robust backend system for efficient user request handling and database management.
+Ensure overall platform performance and scalability.
 
 ## Table of Contents
 
@@ -26,12 +80,6 @@
 - [Walkthrough Video](#Walkthrough-Video)
 - [Collaborators](#Collaborators)
 
-## Description
-
-* Projects play a key role in your journey to becoming a full-stack web developer. As you enter the last phase of the boot camp, you’ll begin to apply for development jobs. If you want to land interviews, your portfolio must feature high-quality deployed examples of your work—-and you can use your finished projects for that very purpose.
-
-* As your first opportunity to show employers your collaborative skills and coding abilities, this particular project will be a focal point of your portfolio. Employers want to see what you can do, but they also want to see how you work with other developers. The more examples of deployed collaborative work you have in your portfolio, the more likely you are to get an interview and a job.
-
 ## User Story
 
 ```
@@ -43,55 +91,50 @@ effortlessly.
 ## Acceptance Criteria
 
 ```
-1) Intuitive User Interface:
-The platform should feature a user-friendly interface with easy navigation to enhance the overall
-user experience. Ensure a responsive design that adapts to various devices and screen sizes.
+WHEN a user accesses the game platform
+THEN they should experience an intuitive user interface with easy navigation, enhancing overall
+usability and responsiveness on various devices and screen sizes.
 
-2) Diverse Game Collection:
-Include an extensive collection of games, categorized into genres for easy exploration.
-Provide relevant information about each game, including genre, release date, and a brief
-description.
+WHEN a user explores the game collection
+THEN they should find an extensive array of games categorized by genres, including relevant
+information like genre, release date, and a brief description for effortless exploration.
 
-3) Integration of Game APIs:
-Implement APIs to fetch and display game details, including trailers, screenshots, and reviews.
-Ensure seamless integration with external platforms for an enriched gaming experience.
+WHEN a user views game details
+THEN the platform should seamlessly fetch and display information using integrated APIs for
+trailers, screenshots, and reviews, ensuring a rich gaming experience across external platforms.
 
-4) Interactive Game Trailers:
-Create an interactive section dedicated to game trailers, allowing users to watch and engage with
-the latest game previews. Implement features such as auto play, full-screen mode, and the ability
-to comment or share trailers.
+WHEN a user engages with game trailers
+THEN they should have an interactive experience with features such as auto play, full-screen mode,
+and options to comment or share trailers.
 
-5) Search and Recommendation System:
-Develop a search box with autocomplete functionality, offering game recommendations as users type.
-Integrate a drop-down box with suggested games based on user preferences and popular trends.
+WHEN a user searches for games
+THEN the platform should provide autocomplete functionality and offer game recommendations as users
+type, incorporating a drop-down box with suggestions based on preferences and trends.
 
-6) Favorite Games Section:
-Provide users with the ability to create a personalized list of favorite games.
-Implement local storage to save and retrieve the user's favorite games for future references.
+WHEN a user manages favorite games
+THEN they should have the ability to create a personalized list, with local storage implemented to
+save and retrieve their favorite games for future reference.
 
-7) User Authentication:
-Implement a secure user authentication system, allowing users to create accounts, log in, and manage
-their profiles. Ensure password encryption and secure storage of user information.
+WHEN a user interacts with user authentication
+THEN the system should securely allow account creation, login, and profile management with encrypted
+passwords and secure storage of user information.
 
-8) Social Integration:
-Enable social media sharing options for users to share their favorite games or achievements on
-various platforms.
+WHEN a user wants to share achievements
+THEN the platform should enable social media sharing options for favorite games on various platforms.
 
-9) Feedback and Rating System:
-Implement a user feedback and rating system, allowing users to rate and review games.
-Display average ratings and reviews for each game to help users make informed decisions.
+WHEN a user provides feedback
+THEN the platform should facilitate a user feedback and rating system for games, displaying average
+ratings and reviews to assist users in making informed decisions.
 
-10) Multiplayer Functionality:
-Incorporate multiplayer features, allowing users to connect with friends, join gaming communities,
-and engage in multiplayer games.
+WHEN a user desires multiplayer engagement
+THEN the platform should incorporate features to connect with friends, join gaming communities, and
+participate in multiplayer games.
 
-11) Notifications and Updates:
-Implement a notification system to inform users about new game releases, updates, or events related
-to their favorite games.
+WHEN there are updates or events related to favorite games
+THEN the platform should implement a notification system to inform users promptly.
 
-12) Responsive Backend:
-Develop a robust backend system that efficiently handles user requests, updates the game database,
-and ensures the platform's overall performance.
+WHEN a user interacts with the backend
+THEN the platform should have a robust backend system efficiently handling user requests, updating the game database, and ensuring overall performance.
 ```
 
 ## How to Use
