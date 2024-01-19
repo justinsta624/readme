@@ -28,8 +28,8 @@
 
 ## Description
 
-* `Intuitive User Interface`</div> 
-Create a user-friendly interface for seamless navigation.
+* `Intuitive User Interface`
+</div> Create a user-friendly interface for seamless navigation.
 Ensure responsiveness across various devices and screen sizes.
 * `Diverse Game Collection`
 Curate an extensive game collection categorized by genres.
