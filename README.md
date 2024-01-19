@@ -1,5 +1,7 @@
 <a ID="readme-top"></a>
+
 <div align="center">
+  
 # Gamersheim: Interactive Full-Stack Project
 
 [![Node.js Badge](https://img.shields.io/badge/Node.js-393?style=for-the-badge&logo=nodedotjs&logoColor=fff)](https://nodejs.org/en)
