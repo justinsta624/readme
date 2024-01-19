@@ -28,7 +28,7 @@
 
 ## Description
 
-* 'Intuitive User Interface'
+* `Intuitive User Interface`
 Create a user-friendly interface for seamless navigation.
 Ensure responsiveness across various devices and screen sizes.
 
