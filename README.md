@@ -22,49 +22,52 @@
 * Project serves as a focal point in the portfolio, highlighting teamwork.
 * Employers seek evidence of both individual capabilities and collaboration with other developers.
 * Increased chances of interviews and job offers with a portfolio featuring deployed collaborative projects.
+  
+</div>
+</div>
 
-1) Intuitive User Interface:
+1)Intuitive User Interface:
 Create a user-friendly interface for seamless navigation.
 Ensure responsiveness across various devices and screen sizes.
 
-2) Diverse Game Collection:
+2)Diverse Game Collection:
 Curate an extensive game collection categorized by genres.
 Display relevant information such as genre, release date, and brief descriptions.
 
-3) Integration of Game APIs:
+3)Integration of Game APIs:
 Implement APIs to fetch and display game details, including trailers and reviews.
 Integrate with external platforms for an enriched gaming experience.
 
-4) Interactive Game Trailers:
+4)Interactive Game Trailers:
 Develop an interactive section for game trailers with auto-play and full-screen options.
 Include features for user comments and sharing of trailers.
 
-5) Search and Recommendation System:
+5)Search and Recommendation System:
 Design a search box with autocomplete functionality.
 Integrate a drop-down box with suggested games based on user preferences and trends.
 
-6) Favorite Games Section:
+6)Favorite Games Section:
 Enable users to create and manage a personalized list of favorite games.
 Implement local storage for saving and retrieving user-selected favorites.
 
-7) User Authentication:
+7)User Authentication:
 Implement a secure user authentication system with encrypted passwords.
 Allow users to create accounts, log in, and manage profiles securely.
 
-8) Social Integration:
+8)Social Integration:
 Enable social media sharing options for game-related activities and achievements.
 
 9)Feedback and Rating System:
 Create a user feedback and rating system for games.
 Display average ratings and reviews to assist users in decision-making.
 
-10) Multiplayer Functionality:
+10)Multiplayer Functionality:
 Incorporate features for multiplayer engagement, including connecting with friends and joining gaming communities.
 
-11) Notifications and Updates:
+11)Notifications and Updates:
 Implement a notification system for new game releases, updates, and events.
 
-12) Responsive Backend:
+12)Responsive Backend:
 Develop a robust backend system for efficient user request handling and database management.
 Ensure overall platform performance and scalability.
 
