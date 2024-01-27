@@ -27,40 +27,6 @@
 </div>
 </div>
 
-## Description
-
-`Intuitive User Interface` Create a user-friendly interface for seamless navigation.
-Ensure responsiveness across various devices and screen sizes. </div> 
-
-`Diverse Game Collection` Curate an extensive game collection categorized by genres.
-Display relevant information such as genre, release date, and brief descriptions. </div> 
-
-`Integration of Game APIs` Implement APIs to fetch and display game details, including trailers and reviews.
-Integrate with external platforms for an enriched gaming experience. </div> 
-
-`Interactive Game Trailers` Develop an interactive section for game trailers with auto-play and full-screen options.
-Include features for user comments and sharing of trailers. </div> 
-
-`Search and Recommendation System` Design a search box with autocomplete functionality.
-Integrate a drop-down box with suggested games based on user preferences and trends. </div> 
-
-`Favorite Games Section` Enable users to create and manage a personalized list of favorite games.
-Implement local storage for saving and retrieving user-selected favorites. </div>
-
-`User Authentication` Implement a secure user authentication system with encrypted passwords.
-Allow users to create accounts, log in, and manage profiles securely. </div> 
-
-`Social Integration` Enable social media sharing options for game-related activities and achievements. </div> 
-
-`Feedback and Rating System` Create a user feedback and rating system for games.
-Display average ratings and reviews to assist users in decision-making. </div> 
-
-`Multiplayer Functionality` Incorporate features for multiplayer engagement, including connecting with friends and joining gaming communities. </div> 
-
-`Notifications and Updates` Implement a notification system for new game releases, updates, and events. </div> 
-
-`Responsive Backend` Develop a robust backend system for efficient user request handling and database management.
-Ensure overall platform performance and scalability. </div> 
 
 ## Table of Contents
 
@@ -140,7 +106,7 @@ the game database, and ensuring overall performance.
 GAMERSHEIM is deployed VIA Heroku (Utilising JawsDB as Database-as-a-service)
 Installation is not required if accessing VIA the below link:
 
-<a href="https://polar-journey-77005-c598f31c0871.herokuapp.com/"> GAMERSHEIM (Heroku)" </a>
+<a href="https://polar-journey-77005-c598f31c0871.herokuapp.com/"> GAMERSHEIM(Heroku) </a>
 
 If you would like to Clone -or- Fork the repository to contribute then folow the below steps.
 
@@ -171,8 +137,40 @@ npm run seed
 node server.js
 ```
 
-### Usage:
+### Usage
 
+`Intuitive User Interface` Create a user-friendly interface for seamless navigation.
+Ensure responsiveness across various devices and screen sizes. </div> 
+
+`Diverse Game Collection` Curate an extensive game collection categorized by genres.
+Display relevant information such as genre, release date, and brief descriptions. </div> 
+
+`Integration of Game APIs` Implement APIs to fetch and display game details, including trailers and reviews.
+Integrate with external platforms for an enriched gaming experience. </div> 
+
+`Interactive Game Trailers` Develop an interactive section for game trailers with auto-play and full-screen options.
+Include features for user comments and sharing of trailers. </div> 
+
+`Search and Recommendation System` Design a search box with autocomplete functionality.
+Integrate a drop-down box with suggested games based on user preferences and trends. </div> 
+
+`Favorite Games Section` Enable users to create and manage a personalized list of favorite games.
+Implement local storage for saving and retrieving user-selected favorites. </div>
+
+`User Authentication` Implement a secure user authentication system with encrypted passwords.
+Allow users to create accounts, log in, and manage profiles securely. </div> 
+
+`Social Integration` Enable social media sharing options for game-related activities and achievements. </div> 
+
+`Feedback and Rating System` Create a user feedback and rating system for games.
+Display average ratings and reviews to assist users in decision-making. </div> 
+
+`Multiplayer Functionality` Incorporate features for multiplayer engagement, including connecting with friends and joining gaming communities. </div> 
+
+`Notifications and Updates` Implement a notification system for new game releases, updates, and events. </div> 
+
+`Responsive Backend` Develop a robust backend system for efficient user request handling and database management.
+Ensure overall platform performance and scalability. </div> 
 
 
 ## Technology-Used
