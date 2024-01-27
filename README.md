@@ -15,23 +15,6 @@
 </div>
 </div>
 
-### Screenshots
-
-<div align="center">
-
-![#1.Screenshot of the Gamersheim Homepage](./assets/images/FIFA_23_Cover.jpg)
-
-![#2.Screenshot of the Popular Category](./assets/images/Devil_May_Cry_5.jpg)
-
-![#3.Screenshot of the Upcoming Category](./assets/images/Doom_cover_art.jpg)
-
-![#4.Screenshot of the Platforms Category](./assets/images/Grand_Theft_Auto_V.png)
-
-![#5.Screenshot of the Genre Category](./assets/images/Resident_Evil_3.jpg)
-
-![#6.Screenshot of the User Category](./public/images/Witcher_3_cover_art.jpg)
-</div>
-
 
 ## Goal of the Project
 
@@ -152,18 +135,41 @@ the game database, and ensuring overall performance.
 
 ## How to Use
 
-
 ### Installation
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
+GAMERSHEIM is deployed VIA Heroku (Utilising JawsDB as Database-as-a-service)
+Installation is not required if accessing VIA the below link:
+
+<a href="https://polar-journey-77005-c598f31c0871.herokuapp.com/"> GAMERSHEIM (Heroku)" </a>
+
+If you would like to Clone -or- Fork the repository to contribute then folow the below steps.
+
+1. Clone -or- Fork the repository
+2. Run the below in console install necessary packages
+
+```
+npm i
+```
+3. After NPM packages have been installed, you'll need to set up your MySQL database for the application to read and write to. Log into MySQL2:
+```
+mysql -u root -p
+```
+4. Within mysql2 - create the datbase with the schema provided, run the below command in the root folder (the below is the relative path):
+```
+source ./db/schema.sql
+```
+5. Exit MySQL2:
+```
+quit
+```
+6. Seeding -or- populating a database with necessary data
+```
+npm run seed
+```
+7. You can run start the server once packages have been installed and the database is created. Run the below in the CLI:
+```
+node server.js
+```
 
 ### Usage:
 
@@ -191,6 +197,26 @@ For details click on the following link to go to the "LICENSE" file:
 
 ## References
 
+
+
+### Screenshots
+
+<div align="center">
+  
+![#1.Screenshot of the Gamersheim Homepage](./assets/images/FIFA_23_Cover.jpg)
+
+![#2.Screenshot of the Popular Category](./assets/images/Devil_May_Cry_5.jpg)
+
+![#3.Screenshot of the Upcoming Category](./assets/images/Doom_cover_art.jpg)
+
+![#4.Screenshot of the Platforms Category](./assets/images/Grand_Theft_Auto_V.png)
+
+![#5.Screenshot of the Genre Category](./assets/images/Resident_Evil_3.jpg)
+
+![#6.Screenshot of the User Category](./public/images/Witcher_3_cover_art.jpg)
+
+</div>
+</div>
 
 
 ## Collaborators
