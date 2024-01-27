@@ -182,11 +182,12 @@ GAMERSHEIM is deployed VIA Heroku </div>
 - [Handlebars.js as the Template Engine](https://handlebarsjs.com/)
 - [MySQL Workbench for the Database](https://dev.mysql.com/doc/mysql-getting-started/en/)
 - [Sequelize ORM for the Database](https://sequelize.org/docs/v6/)
-- [GET/POST Routes for retrieving/adding New Data](https://expressjs.com/en/guide/using-middleware.html)
+- [GET & POST Routes for retrieving & adding New Data](https://expressjs.com/en/guide/using-middleware.html)
 - [Folder Structure with MVC Paradigm](https://docs.google.com/presentation/d/1RIA8VZVN4_JAaL0xSPf1GPc8b5dJlM5V43EVNEZ_kfA/edit#slide=id.g104b0cd1c59_0_2178)
 - [Authentication and Cookies](https://github.com/expressjs/session#cookie)
 - [Deployment using HEROKU](https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql)
-- [Polished UI meet Semantic Coding Standards with Professional README](https://github.com/ozdaldogru/Gamersheim-Interactive-Full-Stack-Project-)
+- [Polished UI Tips and Tools](https://guides.codepath.com/android/Polishing-a-UI-Tips-and-Tools)
+- [How to meet High-Quality Coding Standards](https://www.freecodecamp.org/news/how-to-write-clean-code/)
 
 ## License
 
