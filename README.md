@@ -64,7 +64,7 @@
 - [Acceptance Criteria](#Acceptance-Criteria)
 - [Installation](#Installation)
 - [Technology Used](#technology-used)
-- [Usage](#Usage)
+- [Reference](#Reference)
 - [License](#license)
 - [Screenshots](#Screenshots)
 - [Collaborators](#Collaborators)
@@ -177,7 +177,7 @@ GAMERSHEIM is deployed VIA Heroku </div>
 - **Nodemon**: Development tool for auto-reloading the server during development.
 - **Heroku**: A cloud platform that offers easy deployment and management of web applications.
 
-## Usage (with Reference)
+## Reference
 - [Node.js & Express.js to create a RESTful API](https://docs.github.com/en/rest?apiVersion=2022-11-28)
 - [Handlebars.js as the Template Engine](https://handlebarsjs.com/)
 - [MySQL Workbench for the Database](https://dev.mysql.com/doc/mysql-getting-started/en/)
