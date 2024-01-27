@@ -18,7 +18,7 @@
 
 ## Goal of the Project
 
-### in General
+### In General
 * Essential role of projects in the journey to becoming a full-stack web developer.
 * First opportunity to demonstrate collaborative skills and coding abilities to employers.
 * Project serves as a focal point in the portfolio, highlighting teamwork.
@@ -60,15 +60,16 @@
 ## Table of Contents
 
 - [Goal of the Project](#Goal-of-the-Project)
-- [Description](#Description)
 - [User Story](#User-Story)
 - [Acceptance Criteria](#Acceptance-Criteria)
-- [How to Use](#how-to-use)
+- [Installation](#Installation)
 - [Technology Used](#technology-used)
 - [License](#license)
 - [References](#references)
-- [Walkthrough Video](#Walkthrough-Video)
+- [Screenshots](#Screenshots)
 - [Collaborators](#Collaborators)
+- [Presentation](#Presentation)
+- [Deployment](#Deployment)
 
 ## User Story
 
