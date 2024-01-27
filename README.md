@@ -18,6 +18,14 @@
 
 ## Goal of the Project
 
+### General
+* Essential role of projects in the journey to becoming a full-stack web developer.
+* First opportunity to demonstrate collaborative skills and coding abilities to employers.
+* Project serves as a focal point in the portfolio, highlighting teamwork.
+* Employers seek evidence of both individual capabilities and collaboration with other developers.
+* Increased chances of interviews and job offers with a portfolio featuring deployed collaborative projects.
+
+### In detail
 * `Empowering Gaming Enthusiasts` </div>
   Provide an immersive full-stack game platform for gaming enthusiasts to effortlessly discover, play, and organize their favorite games.
 * `Showcasing Seamless User Experience`
