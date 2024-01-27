@@ -18,11 +18,19 @@
 
 ## Goal of the Project
 
-* Essential role of projects in the journey to becoming a full-stack web developer.
-* First opportunity to demonstrate collaborative skills and coding abilities to employers.
-* Project serves as a focal point in the portfolio, highlighting teamwork.
-* Employers seek evidence of both individual capabilities and collaboration with other developers.
-* Increased chances of interviews and job offers with a portfolio featuring deployed collaborative projects.
+* Empowering Gaming Enthusiasts: Provide an immersive full-stack game platform for gaming enthusiasts to effortlessly discover, play, and organize their favorite games.
+* Showcasing Seamless User Experience: Demonstrate the project's commitment to an intuitive user interface, ensuring easy navigation, enhanced usability, and responsiveness across various devices and screen sizes.
+* Highlighting Rich Game Collection: Serve as a focal point in the portfolio by offering an extensive game collection categorized by genres. Include relevant information such as genre, release date, and brief descriptions for effortless exploration.
+* Integrating External APIs for Enriched Experience: Seamlessly fetch and display game details using integrated APIs for trailers, screenshots, and reviews. Enhance the gaming experience by integrating with external platforms.
+* Engaging Users with Interactive Features: Provide an interactive experience with game trailers, featuring auto play, full-screen mode, and options to comment or share trailers.
+* Enhancing Search and Recommendation System: Design a search box with autocomplete functionality. Incorporate a drop-down box with suggested games based on user preferences and trends.
+* Enabling Personalization with Favorite Games: Allow users to create and manage a personalized list of favorite games. Implement local storage for saving and retrieving user-selected favorites.
+* Ensuring Secure User Authentication: Implement a secure user authentication system with encrypted passwords. Enable users to create accounts, log in, and manage profiles securely.
+* Facilitating Social Engagement: Enable social media sharing options for game-related activities and achievements.
+* Implementing Feedback and Rating System: Create a user feedback and rating system for games, displaying average ratings and reviews to assist users in making informed decisions.
+* Cultivating Multiplayer Engagement: Incorporate features for multiplayer engagement, including connecting with friends, joining gaming communities, and participating in multiplayer games.
+* Promptly Notifying Users of Updates and Events: Implement a notification system for new game releases, updates, and events.
+* Building a Robust Backend for Performance: Develop a robust backend system efficiently handling user requests, updating the game database, and ensuring overall platform performance and scalability.
   
 </div>
 </div>
