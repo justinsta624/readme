@@ -20,24 +20,18 @@
 <div align="center">
 
 ![#1.Screenshot of the Gamersheim Homepage](./assets/images/FIFA_23_Cover.jpg)
-</div>
 
 ![#2.Screenshot of the Popular Category](./assets/images/Devil_May_Cry_5.jpg)
-</div>
 
 ![#3.Screenshot of the Upcoming Category](./assets/images/Doom_cover_art.jpg)
-</div>
 
 ![#4.Screenshot of the Platforms Category](./assets/images/Grand_Theft_Auto_V.png)
-</div>
 
 ![#5.Screenshot of the Genre Category](./assets/images/Resident_Evil_3.jpg)
-</div>
 
 ![#6.Screenshot of the User Category](./public/images/Witcher_3_cover_art.jpg)
 </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Goal of the Project
 
