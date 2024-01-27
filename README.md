@@ -216,15 +216,15 @@ For details click on the following link to go to the "LICENSE" file:
 
 ## Presentation
 
-Group 3 Presentation of Project: [GAMERSHEIM]
-[https://docs.google.com/presentation/d/10QaO9KH8HtUXj__81ve0SZcpO5DbMbqqQr4iPpbwKks/edit?usp=sharing](https://docs.google.com/presentation/d/1ZsIhdhDAGaGDt26DzNYWIajbtkND_A5P/edit?usp=sharing&ouid=107335282898826746758&rtpof=true&sd=true)
+Group 3 Presentation of Project: 
+[GAMERSHEIM](https://docs.google.com/presentation/d/1ZsIhdhDAGaGDt26DzNYWIajbtkND_A5P/edit?usp=sharing&ouid=107335282898826746758&rtpof=true&sd=true)
 
 to address the following: 
-* Elevator pitch: A one-minute description of your application.
-* Concept: What is your user story? What was your motivation for development?
-* Process: What were the technologies used? How were tasks and roles broken down and assigned? What challenges did you encounter? What were your successes?
-* Demo: Show your stuff!
-* Directions for future development.
+* `Elevator pitch` A one-minute description of your application.
+* `Concept` What is your `user story`? What was your motivation for development?
+* `Process` What were the `technologies` used? How were `tasks` and `roles` broken down and assigned? What `challenges` did you encounter? What were your `successes`?
+* `Demo`: Show your `application`
+* Directions for `future development`.
 
 
 ## Deployment
