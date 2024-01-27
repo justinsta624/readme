@@ -161,7 +161,7 @@ node server.js
 ```
 
 GAMERSHEIM is deployed VIA Heroku </div>
-<a href="https://polar-journey-77005-c598f31c0871.herokuapp.com/"> GAMERSHEIM (Heroku) </a>
+<a href="https://polar-journey-77005-c598f31c0871.herokuapp.com/"> HEROKU </a>
 
 
 ## Technology-Used
@@ -177,16 +177,16 @@ GAMERSHEIM is deployed VIA Heroku </div>
 - **Nodemon**: Development tool for auto-reloading the server during development.
 - **Heroku**: A cloud platform that offers easy deployment and management of web applications.
 
-## Usage
-- [Node.js/Express.js to create a RESTful API](https://docs.github.com/en/rest?apiVersion=2022-11-28)
-- [Handlebars.js as the template engine](https://handlebarsjs.com/)
-- [MySQL Workbench for the database](https://dev.mysql.com/doc/mysql-getting-started/en/)
-- [Sequelize ORM for the database](https://sequelize.org/docs/v6/)
-- [GET/POST routes for retrieving/adding new data](https://expressjs.com/en/guide/using-middleware.html)
-- [Folder structure with MVC paradigm](https://docs.google.com/presentation/d/1RIA8VZVN4_JAaL0xSPf1GPc8b5dJlM5V43EVNEZ_kfA/edit#slide=id.g104b0cd1c59_0_2178)
-- [Authentication and cookies](https://github.com/expressjs/session#cookie)
-- [Deployment using Heroku](https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql)
-- [Polished UI meet semantic coding standards with Professional README](https://github.com/ozdaldogru/Gamersheim-Interactive-Full-Stack-Project-)
+## Usage (with Reference)
+- [Node.js & Express.js to create a RESTful API](https://docs.github.com/en/rest?apiVersion=2022-11-28)
+- [Handlebars.js as the Template Engine](https://handlebarsjs.com/)
+- [MySQL Workbench for the Database](https://dev.mysql.com/doc/mysql-getting-started/en/)
+- [Sequelize ORM for the Database](https://sequelize.org/docs/v6/)
+- [GET/POST Routes for retrieving/adding New Data](https://expressjs.com/en/guide/using-middleware.html)
+- [Folder Structure with MVC Paradigm](https://docs.google.com/presentation/d/1RIA8VZVN4_JAaL0xSPf1GPc8b5dJlM5V43EVNEZ_kfA/edit#slide=id.g104b0cd1c59_0_2178)
+- [Authentication and Cookies](https://github.com/expressjs/session#cookie)
+- [Deployment using HEROKU](https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql)
+- [Polished UI meet Semantic Coding Standards with Professional README](https://github.com/ozdaldogru/Gamersheim-Interactive-Full-Stack-Project-)
 
 ## License
 
@@ -225,7 +225,7 @@ For details click on the following link to go to the "LICENSE" file:
 ## Presentation
 
 Group 3 Presentation of Project: 
-[GAMERSHEIM](https://docs.google.com/presentation/d/1ZsIhdhDAGaGDt26DzNYWIajbtkND_A5P/edit?usp=sharing&ouid=107335282898826746758&rtpof=true&sd=true)
+[Powerpoint](https://docs.google.com/presentation/d/1ZsIhdhDAGaGDt26DzNYWIajbtkND_A5P/edit?usp=sharing&ouid=107335282898826746758&rtpof=true&sd=true)
 
 to address the following: 
 * `Elevator pitch` A one-minute description of your application.
