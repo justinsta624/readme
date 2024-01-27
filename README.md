@@ -176,11 +176,11 @@ For details click on the following link to go to the "LICENSE" file:
 
 
 ## Collaborators
-[![OzdalDogru](https://img.shields.io/badge/Ozdal-Dogru-blueviolet)](#OzdalDogru)
-[![AllanYuen](https://img.shields.io/badge/Allan-Yuen-red)](#AllanYuen)
-[![MatthewBeaubien](https://img.shields.io/badge/Matthew-Beaubien-green)](#MatthewBeaubien)
-[![CharlotteMarchildon](https://img.shields.io/badge/Charlotte-Marchildon-fcba03)](#CharlotteMarchildon)
-[![JustinLee](https://img.shields.io/badge/Justin-Lee-magenta)](#JustinLee)
+[![OzdalDogru](https://img.shields.io/badge/Ozdal-Dogru-blueviolet)](github.com/charlottemarchildon)
+[![AllanYuen](https://img.shields.io/badge/Allan-Yuen-red)](https://github.com/AllanYuen)
+[![MatthewBeaubien](https://img.shields.io/badge/Matthew-Beaubien-green)](https://github.com/Matthew-Beaubien)
+[![CharlotteMarchildon](https://img.shields.io/badge/Charlotte-Marchildon-fcba03)](github.com/charlottemarchildon)
+[![JustinLee](https://img.shields.io/badge/Justin-Lee-magenta)](github.com/justinsta624)
 
 
 ## Deployment
