@@ -173,7 +173,7 @@ GAMERSHEIM is deployed VIA Heroku </div>
 - **Sequelize**: Promise-based ORM for interacting with databases.
 - **Bcrypt**: Library for securely hashing passwords.
 - **Dotenv**: Utility for loading environment variables.
-- **JawsDB**: Providing managed MySQL databases, ideal for scalable web applications.
+- **Nodemon**: Development tool for auto-reloading the server during development.
 - **Heroku**: A cloud platform that offers easy deployment and management of web applications.
 
 ## License
@@ -214,19 +214,27 @@ For details click on the following link to go to the "LICENSE" file:
 [![CharlotteMarchildon](https://img.shields.io/badge/Charlotte-Marchildon-fcba03)](https://github.com/charlottemarchildon)
 [![JustinLee](https://img.shields.io/badge/Justin-Lee-magenta)](https://github.com/justinsta624)
 
+## Presentation
+
+Group 3 Presentation of Project: [GAMERSHEIM]
+[https://docs.google.com/presentation/d/10QaO9KH8HtUXj__81ve0SZcpO5DbMbqqQr4iPpbwKks/edit?usp=sharing](https://docs.google.com/presentation/d/1ZsIhdhDAGaGDt26DzNYWIajbtkND_A5P/edit?usp=sharing&ouid=107335282898826746758&rtpof=true&sd=true)
+
+to address the following: 
+* Elevator pitch: A one-minute description of your application.
+* Concept: What is your user story? What was your motivation for development?
+* Process: What were the technologies used? How were tasks and roles broken down and assigned? What challenges did you encounter? What were your successes?
+* Demo: Show your stuff!
+* Directions for future development.
+
 
 ## Deployment
 
 Github direct link:
 https://github.com/ozdaldogru/Gamersheim-Interactive-Full-Stack-Project- 
 
-
 Github HTTPS Clone link:
 
-
-
 Github Deployment link:
-
 
 Heroku Deployment link:
 
