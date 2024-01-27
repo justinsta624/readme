@@ -18,8 +18,8 @@
 
 ## Goal of the Project
 
-* `Empowering Gaming Enthusiasts`
-  </div> Provide an immersive full-stack game platform for gaming enthusiasts to effortlessly discover, play, and organize their favorite games.
+* `Empowering Gaming Enthusiasts` </div>
+  Provide an immersive full-stack game platform for gaming enthusiasts to effortlessly discover, play, and organize their favorite games.
 * `Showcasing Seamless User Experience`
   </div> Demonstrate the project's commitment to an intuitive user interface, ensuring easy navigation, enhanced usability, and responsiveness across various devices and screen sizes.
 * `Highlighting Rich Game Collection`
