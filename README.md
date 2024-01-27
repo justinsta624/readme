@@ -178,15 +178,15 @@ GAMERSHEIM is deployed VIA Heroku </div>
 - **Heroku**: A cloud platform that offers easy deployment and management of web applications.
 
 ## Usage
-[Node.js/Express.js to create a RESTful API](https://docs.github.com/en/rest?apiVersion=2022-11-28)
-[Handlebars.js as the template engine](https://handlebarsjs.com/)
-[MySQL Workbench for the database](https://dev.mysql.com/doc/mysql-getting-started/en/)
-[Sequelize ORM for the database](https://sequelize.org/docs/v6/)
-[GET/POST routes for retrieving/adding new data](https://expressjs.com/en/guide/using-middleware.html)
-[Folder structure with MVC paradigm](https://docs.google.com/presentation/d/1RIA8VZVN4_JAaL0xSPf1GPc8b5dJlM5V43EVNEZ_kfA/edit#slide=id.g104b0cd1c59_0_2178)
-[Authentication and cookies](https://github.com/expressjs/session#cookie)
-[Deployment using Heroku](https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql)
-[Polished UI meet semantic coding standards with Professional README](https://github.com/ozdaldogru/Gamersheim-Interactive-Full-Stack-Project-)
+- [Node.js/Express.js to create a RESTful API](https://docs.github.com/en/rest?apiVersion=2022-11-28)
+- [Handlebars.js as the template engine](https://handlebarsjs.com/)
+- [MySQL Workbench for the database](https://dev.mysql.com/doc/mysql-getting-started/en/)
+- [Sequelize ORM for the database](https://sequelize.org/docs/v6/)
+- [GET/POST routes for retrieving/adding new data](https://expressjs.com/en/guide/using-middleware.html)
+- [Folder structure with MVC paradigm](https://docs.google.com/presentation/d/1RIA8VZVN4_JAaL0xSPf1GPc8b5dJlM5V43EVNEZ_kfA/edit#slide=id.g104b0cd1c59_0_2178)
+- [Authentication and cookies](https://github.com/expressjs/session#cookie)
+- [Deployment using Heroku](https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql)
+- [Polished UI meet semantic coding standards with Professional README](https://github.com/ozdaldogru/Gamersheim-Interactive-Full-Stack-Project-)
 
 ## License
 
