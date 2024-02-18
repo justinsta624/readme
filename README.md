@@ -71,7 +71,7 @@ WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 ```
 
-### Model Structure
+## Model Structure
 
 **User**:
 * `username`
@@ -131,7 +131,7 @@ Create a virtual called `reactionCount` that retrieves the length of the thought
 **Schema Settings**:
 This will not be a model, but rather will be used as the `reaction` field's subdocument schema in the `Thought` model.
 
-### Routes Structure
+## Routes Structure
 
 **`/api/users`**
 * `GET` all users
