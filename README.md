@@ -89,7 +89,6 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 * `friends`
   * Array of `_id` values referencing the `User` model (self-reference)
 ---
-
 **Thought**:
 * `thoughtText`
   * String
@@ -105,7 +104,6 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 * `reactions` (These are like replies)
   * Array of nested documents created with the `reactionSchema`
 ---
-
 **Reaction** (SCHEMA ONLY)
 * `reactionId`
   * Use Mongoose's ObjectId data type
@@ -139,12 +137,10 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 * `DELETE` to remove user by its `_id`
 **BONUS**: Remove a user's associated thoughts when deleted.
 ---
-
 **`/api/users/:userId/friends/:friendId`**
 * `POST` to add a new friend to a user's friend list
 * `DELETE` to remove a friend from a user's friend list
 ---
-
 **`/api/thoughts`**
 * `GET` to get all thoughts
 * `GET` to get a single thought by its `_id`
@@ -160,7 +156,6 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 * `PUT` to update a thought by its `_id`
 * `DELETE` to remove a thought by its `_id`
 ---
-
 **`/api/thoughts/:thoughtId/reactions`**
 * `POST` to create a reaction stored in a single thought's `reactions` array field
 * `DELETE` to pull and remove a reaction by the reaction's `reactionId` value
@@ -188,6 +183,9 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 For details click on the following link to go to the "LICENSE" file:
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=mit)](https://opensource.org/licenses/MIT)
+
+---
+© 2024 Hanbyeol Justin Lee. Confidential and Proprietary. All Rights Reserved.
 
 
 ## Review
