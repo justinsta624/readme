@@ -43,7 +43,7 @@ Followings are the outcomes of the challenge 18:
 ## Description
 
 - To build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
-- To have MongoDB installed on your machine. [MongoDB installation guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/mongodb/how-to-install-mongodb) to install MongoDB locally.
+- To have MongoDB installed on your machine. [MongoDB installation guide](https://coding-boot-camp.github.io/full-stack/mongodb/how-to-install-mongodb) to install MongoDB locally.
 - Using Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition to using the [Express.js](https://www.npmjs.com/package/express) and [Mongoose](https://www.npmjs.com/package/mongoose) packages
 - Using a JavaScript date library or the native JavaScript `Date` object to format timestamps.
 - Create own data using Insomnia after creating API.
@@ -68,7 +68,8 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete users and thoughts in my database
 WHEN I test API POST and DELETE routes in Insomnia
-THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
+THEN I am able to successfully create and delete reactions to thoughts and add and remove friends
+to a user’s friend list
 ```
 
 ## Model Structure
