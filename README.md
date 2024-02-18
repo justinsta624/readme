@@ -2,191 +2,194 @@
 
 <div align="center">
   
-# Gamersheim: Interactive Full-Stack Project
+# ⭐ NoSQL: Social Network API ⭐
 
 [![Node.js Badge](https://img.shields.io/badge/Node.js-393?style=for-the-badge&logo=nodedotjs&logoColor=fff)](https://nodejs.org/en)
-[![MySQL2 Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Insomia Badge](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)](https://insomnia.rest/)
 [![Express Badge](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Bcrypt Badge](https://img.shields.io/badge/Bcrypt-338?style=for-the-badge&logo=javascript&logoColor=white)](https://www.npmjs.com/package/bcrypt)
-[![Dotenv Badge](https://img.shields.io/badge/Dotenv-000?style=for-the-badge&logo=javascript&logoColor=white)](https://www.npmjs.com/package/dotenv)
-[![Sequelize Badge](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)](https://www.npmjs.com/package/sequelize)
-[![Handlebar Badge](https://img.shields.io/badge/Handlebars%20js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)](https://www.npmjs.com/package/handlebars)
+[![MongoDB Badge]((https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white))](https://www.mongodb.com/)
+[![GitHub Badge]((https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white))](https://github.com/justinsta624/)
 
 </div>
 </div>
 
+## Outcome
 
-## Goal of the Project
+Followings are the outcomes of the challenge 18:
 
-### In General
-* Essential role of projects in the journey to becoming a full-stack web developer.
-* First opportunity to demonstrate collaborative skills and coding abilities to employers.
-* Project serves as a focal point in the portfolio, highlighting teamwork.
-* Employers seek evidence of both individual capabilities and collaboration with other developers.
-* Increased chances of interviews and job offers with a portfolio featuring deployed collaborative projects.
+* A walkthrough video demonstrating the functionality of the application </br>
+[Walk-Through Video: Webm file](https://drive.google.com/file/d/1DesRcjh71bOVOYdFWXmtrp2ilY5Ni-Oo/view) </br>
 
-### As a full-stack web developer
-* `Empowering Gaming Enthusiasts` </div>
-  Provide an immersive full-stack game platform for gaming enthusiasts to effortlessly discover, play, and organize their favorite games.
-* `Showcasing Seamless User Experience`
-  </div> Demonstrate the project's commitment to an intuitive user interface, ensuring easy navigation, enhanced usability, and responsiveness across various devices and screen sizes.
-* `Highlighting Rich Game Collection`
-  </div> Serve as a focal point in the portfolio by offering an extensive game collection categorized by genres. Include relevant information such as genre, release date, and brief descriptions for effortless exploration.
-* `Integrating External APIs for Enriched Experience`
-  </div> Seamlessly fetch and display game details using integrated APIs for trailers, screenshots, and reviews. Enhance the gaming experience by integrating with external platforms.
-* `Engaging Users with Interactive Features`
-  </div> Provide an interactive experience with game trailers, featuring auto play, full-screen mode, and options to comment or share trailers.
-* `Enhancing Search and Recommendation System`
-  </div> Design a search box with autocomplete functionality. Incorporate a drop-down box with suggested games based on user preferences and trends.
-* `Enabling Personalization with Favorite Games`
-  </div> Allow users to create and manage a personalized list of favorite games. Implement local storage for saving and retrieving user-selected favorites.
-* `Ensuring Secure User Authentication`
-  </div> Implement a secure user authentication system with encrypted passwords. Enable users to create accounts, log in, and manage profiles securely.
-* `Facilitating Social Engagement`
-  </div> Enable social media sharing options for game-related activities and achievements.
-* `Implementing Feedback and Rating System`
-  </div> Create a user feedback and rating system for games, displaying average ratings and reviews to assist users in making informed decisions.
-* `Cultivating Multiplayer Engagement`
-  </div> Incorporate features for multiplayer engagement, including connecting with friends, joining gaming communities, and participating in multiplayer games.
-* `Promptly Notifying Users of Updates and Events`
-  </div> Implement a notification system for new game releases, updates, and events.
-* `Building a Robust Backend for Performance`
-  </div> Develop a robust backend system efficiently handling user requests, updating the game database, and ensuring overall platform performance and scalability.
+* The URL of the GitHub repository, with a unique name and a README describing the project </br>
+[Repository for this challenge](https://github.com/justinsta624/NoSQLMetaAPI)
+
+<div align="center">
   
-</div>
-</div>
 
+</div>
+</div>
 
 ## Table of Contents
 
-- [Goal of the Project](#Goal-of-the-Project)
+- [Description](#description)
 - [User Story](#User-Story)
 - [Acceptance Criteria](#Acceptance-Criteria)
-- [Installation](#Installation)
+- [Model Structure](#model-structure)
+- [Route Structure](#route-structure)
 - [Technology Used](#technology-used)
 - [Reference](#Reference)
 - [License](#license)
-- [Screenshots](#Screenshots)
-- [Collaborators](#Collaborators)
-- [Presentation](#Presentation)
-- [Deployment](#Deployment)
+
+## Description
+
+- To build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
+- To have MongoDB installed on your machine. [MongoDB installation guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/mongodb/how-to-install-mongodb) to install MongoDB locally.
+- Using Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition to using the [Express.js](https://www.npmjs.com/package/express) and [Mongoose](https://www.npmjs.com/package/mongoose) packages
+- Using a JavaScript date library or the native JavaScript `Date` object to format timestamps.
+- Create own data using Insomnia after creating API.
+- Create a walkthrough video that demonstrates its functionality
 
 ## User Story
 
-```
-As a gaming enthusiast, I want to access an interactive full-stack game platform that provides a
-seamless and engaging experience, allowing me to discover, play, and organize my favorite games
-effortlessly.
+```md
+AS A social media startup
+I WANT an API for my social network that uses a NoSQL database
+SO THAT my website can handle large amounts of unstructured data
 ```
 
 ## Acceptance Criteria
 
-```
-WHEN a user accesses the game platform
-THEN they should experience an intuitive user interface with easy navigation, enhancing overall
-usability and responsiveness on various devices and screen sizes.
-
-WHEN a user explores the game collection
-THEN they should find an extensive array of games categorized by genres, including relevant
-information like genre, release date, and a brief description for effortless exploration.
-
-WHEN a user views game details
-THEN the platform should seamlessly fetch and display information using integrated APIs for
-trailers, screenshots, and reviews, ensuring a rich gaming experience across external platforms.
-
-WHEN a user engages with game trailers
-THEN they should have an interactive experience with features such as auto play, full-screen mode,
-and options to comment or share trailers.
-
-WHEN a user searches for games
-THEN the platform should provide autocomplete functionality and offer game recommendations as users
-type, incorporating a drop-down box with suggestions based on preferences and trends.
-
-WHEN a user manages favorite games
-THEN they should have the ability to create a personalized list, with local storage implemented to
-save and retrieve their favorite games for future reference.
-
-WHEN a user interacts with user authentication
-THEN the system should securely allow account creation, login, and profile management with encrypted
-passwords and secure storage of user information.
-
-WHEN a user wants to share achievements
-THEN the platform should enable social media sharing options for favorite games on various platforms.
-
-WHEN a user provides feedback
-THEN the platform should facilitate a user feedback and rating system for games, displaying average
-ratings and reviews to assist users in making informed decisions.
-
-WHEN a user desires multiplayer engagement
-THEN the platform should incorporate features to connect with friends, join gaming communities, and
-participate in multiplayer games.
-
-WHEN there are updates or events related to favorite games
-THEN the platform should implement a notification system to inform users promptly.
-
-WHEN a user interacts with the backend
-THEN the platform should have a robust backend system efficiently handling user requests, updating
-the game database, and ensuring overall performance.
+```md
+GIVEN a social network API
+WHEN I enter the command to invoke the application
+THEN my server is started and the Mongoose models are synced to the MongoDB database
+WHEN I open API GET routes in Insomnia for users and thoughts
+THEN the data for each of these routes is displayed in a formatted JSON
+WHEN I test API POST, PUT, and DELETE routes in Insomnia
+THEN I am able to successfully create, update, and delete users and thoughts in my database
+WHEN I test API POST and DELETE routes in Insomnia
+THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 ```
 
-## Installation
+### Model Structure
 
-Please follow these steps to install, refer to, contribute, or reflect our project in your work.
+**User**:
+* `username`
+  * String
+  * Unique
+  * Required
+  * Trimmed
+* `email`
+  * String
+  * Required
+  * Unique
+  * Must match a valid email address (look into Mongoose's matching validation)
+* `thoughts`
+  * Array of `_id` values referencing the `Thought` model
+* `friends`
+  * Array of `_id` values referencing the `User` model (self-reference)
 
-1. Clone -or- Fork the repository
-2. Run the below in console install necessary packages
+**Schema Settings**:
+Create a virtual called `friendCount` that retrieves the length of the user's `friends` array field on query.
+---
 
-```
-npm i
-```
-3. After NPM packages have been installed, you'll need to set up your MySQL database for the application to read and write to. Log into MySQL2:
-```
-mysql -u root -p
-```
-4. Within mysql2 - create the datbase with the schema provided, run the below command in the root folder (the below is the relative path):
-```
-source ./db/schema.sql
-```
-5. Exit MySQL2:
-```
-quit
-```
-6. Seeding -or- populating a database with necessary data
-```
-npm run seed
-```
-7. You can run start the server once packages have been installed and the database is created. Run the below in the CLI:
-```
-node server.js
-```
+**Thought**:
+* `thoughtText`
+  * String
+  * Required
+  * Must be between 1 and 280 characters
+* `createdAt`
+  * Date
+  * Set default value to the current timestamp
+  * Use a getter method to format the timestamp on query
+* `username` (The user that created this thought)
+  * String
+  * Required
+* `reactions` (These are like replies)
+  * Array of nested documents created with the `reactionSchema`
 
-GAMERSHEIM is deployed VIA Heroku </div>
-<a href="https://polar-journey-77005-c598f31c0871.herokuapp.com/"> HEROKU </a>
+**Schema Settings**:
+Create a virtual called `reactionCount` that retrieves the length of the thought's `reactions` array field on query.
+---
 
+**Reaction** (SCHEMA ONLY)
+* `reactionId`
+  * Use Mongoose's ObjectId data type
+  * Default value is set to a new ObjectId
+* `reactionBody`
+  * String
+  * Required
+  * 280 character maximum
+* `username`
+  * String
+  * Required
+* `createdAt`
+  * Date
+  * Set default value to the current timestamp
+  * Use a getter method to format the timestamp on query
+
+**Schema Settings**:
+This will not be a model, but rather will be used as the `reaction` field's subdocument schema in the `Thought` model.
+
+### Routes Structure
+
+**`/api/users`**
+* `GET` all users
+* `GET` a single user by its `_id` and populated thought and friend data
+* `POST` a new user:
+```json
+// example data
+{
+  "username": "lernantino",
+  "email": "lernantino@gmail.com"
+}
+```
+* `PUT` to update a user by its `_id`
+* `DELETE` to remove user by its `_id`
+**BONUS**: Remove a user's associated thoughts when deleted.
+---
+
+**`/api/users/:userId/friends/:friendId`**
+* `POST` to add a new friend to a user's friend list
+* `DELETE` to remove a friend from a user's friend list
+---
+
+**`/api/thoughts`**
+* `GET` to get all thoughts
+* `GET` to get a single thought by its `_id`
+* `POST` to create a new thought (don't forget to push the created thought's `_id` to the associated user's `thoughts` array field)
+```json
+// example data
+{
+  "thoughtText": "Here's a cool thought...",
+  "username": "lernantino",
+  "userId": "5edff358a0fcb779aa7b118b"
+}
+```
+* `PUT` to update a thought by its `_id`
+* `DELETE` to remove a thought by its `_id`
+---
+
+**`/api/thoughts/:thoughtId/reactions`**
+* `POST` to create a reaction stored in a single thought's `reactions` array field
+* `DELETE` to pull and remove a reaction by the reaction's `reactionId` value
 
 ## Technology-Used
 
 - **Node.js**: Runtime environment for executing server-side JavaScript code.
 - **Express**: Web application framework for building RESTful APIs.
-- **Express-Handlebars**: Template engine for rendering HTML templates.
-- **Express-Session**: Middleware for managing user sessions.
-- **MySQL2**: MySQL database driver for Node.js.
-- **Sequelize**: Promise-based ORM for interacting with databases.
-- **Bcrypt**: Library for securely hashing passwords.
-- **Dotenv**: Utility for loading environment variables.
+- **MongoDB**: Open-source NoSQL database management system designed to store, retrieve, and manage data in a flexible, scalable, and high-performance manner.
+- **Insomnia**: Tool designed for testing and debugging APIs.
 - **Nodemon**: Development tool for auto-reloading the server during development.
-- **Heroku**: A cloud platform that offers easy deployment and management of web applications.
 
 ## Reference
-- [Node.js & Express.js to create a RESTful API](https://docs.github.com/en/rest?apiVersion=2022-11-28)
-- [Handlebars.js as the Template Engine](https://handlebarsjs.com/)
-- [MySQL Workbench for the Database](https://dev.mysql.com/doc/mysql-getting-started/en/)
-- [Sequelize ORM for the Database](https://sequelize.org/docs/v6/)
+
 - [GET & POST Routes for retrieving & adding New Data](https://expressjs.com/en/guide/using-middleware.html)
-- [Folder Structure with MVC Paradigm](https://docs.google.com/presentation/d/1RIA8VZVN4_JAaL0xSPf1GPc8b5dJlM5V43EVNEZ_kfA/edit#slide=id.g104b0cd1c59_0_2178)
-- [Authentication and Cookies](https://github.com/expressjs/session#cookie)
-- [Deployment using HEROKU](https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql)
-- [Polished UI Tips and Tools](https://guides.codepath.com/android/Polishing-a-UI-Tips-and-Tools)
+- [Loopback Troubleshooting Guide](https://coding-boot-camp.github.io/full-stack/computer-literacy/loopback-issues-with-localhost)
+- [Understanding the different types of NoSQL databases](https://www.mongodb.com/databases/types)
+- [MongoDB docs on downloading and installing Compass](https://www.mongodb.com/docs/compass/current/install/)
+- [MongoDB docs on getting started](https://www.mongodb.com/docs/manual/tutorial/getting-started/)
+- [Mongoose docs on getting started](https://mongoosejs.com/docs/index.html)
 - [How to meet High-Quality Coding Standards](https://www.freecodecamp.org/news/how-to-write-clean-code/)
 
 ## License
@@ -196,59 +199,11 @@ For details click on the following link to go to the "LICENSE" file:
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=mit)](https://opensource.org/licenses/MIT)
 
 
-### Screenshots
+## Review
 
-<div align="center">
-  
-![#1.Screenshot of the Gamersheim Homepage](./assets/images/FIFA_23_Cover.jpg)
+You are required to submit BOTH of the following for review:
 
-![#2.Screenshot of the Popular Category](./assets/images/Devil_May_Cry_5.jpg)
-
-![#3.Screenshot of the Upcoming Category](./assets/images/Doom_cover_art.jpg)
-
-![#4.Screenshot of the Platforms Category](./assets/images/Grand_Theft_Auto_V.png)
-
-![#5.Screenshot of the Genre Category](./assets/images/Resident_Evil_3.jpg)
-
-![#6.Screenshot of the User Category](./public/images/Witcher_3_cover_art.jpg)
-
-</div>
-</div>
-
-
-## Collaborators
-[![OzdalDogru](https://img.shields.io/badge/Ozdal-Dogru-blueviolet)](https://github.com/ozdaldogru)
-[![AllanYuen](https://img.shields.io/badge/Allan-Yuen-red)](https://github.com/AllanYuen)
-[![MatthewBeaubien](https://img.shields.io/badge/Matthew-Beaubien-green)](https://github.com/Matthew-Beaubien)
-[![CharlotteMarchildon](https://img.shields.io/badge/Charlotte-Marchildon-fcba03)](https://github.com/charlottemarchildon)
-[![JustinLee](https://img.shields.io/badge/Justin-Lee-magenta)](https://github.com/justinsta624)
-
-## Presentation
-
-Group 3 Presentation of Project: 
-[Powerpoint](https://docs.google.com/presentation/d/1ZsIhdhDAGaGDt26DzNYWIajbtkND_A5P/edit?usp=sharing&ouid=107335282898826746758&rtpof=true&sd=true)
-
-to address the following: 
-* `Elevator pitch` A one-minute description of your application.
-* `Concept` What is your `user story`? What was your motivation for development?
-* `Process` What were the `technologies` used? How were `tasks` and `roles` broken down and assigned? What `challenges` did you encounter? What were your `successes`?
-* `Demo`: Show your `application`
-* Directions for `future development`.
-
-
-## Deployment
-
-Github direct link:
-https://github.com/ozdaldogru/Gamersheim-Interactive-Full-Stack-Project- 
-
-Github HTTPS Clone link:
-
-Github Deployment link:
-
-Heroku Deployment link:
-
----
-© 2024 Gamersheim-Interactive-Full-Stack-Project- by Project 2 Group 3. All Rights Reserved.
+* A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.
 
 
 ## Description
@@ -489,16 +444,7 @@ Automated Test scripts have not been developed for this application
 ![Security](https://img.shields.io/badge/Security-Dotenv-magenta)
 ![RouteApplication](https://img.shields.io/badge/RouteApplication-Express.js-red)
 
-## Outcome
 
-Followings are the outcomes of the challenge 13:
-
-* A walkthrough video demonstrating the functionality of the application </br>
-[Walk-Through Video: Webm file](https://drive.google.com/file/d/1DesRcjh71bOVOYdFWXmtrp2ilY5Ni-Oo/view) </br>
-[Walk-Through Video: GIF file](https://github.com/justinsta624/MeetyourSVGMaker/blob/main/outcome/231210_Walk-Through-Video_Challenge10_H.LEE.gif)
-
-* The URL of the GitHub repository, with a unique name and a README describing the project </br>
-[Repository for this challenge](https://github.com/justinsta624/ORMeCOMBackend)
 
 ## User Story
 
