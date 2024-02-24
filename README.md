@@ -100,7 +100,7 @@ THEN I download my web application as an icon on my desktop
 WHEN I load my web application
 THEN I should have a registered service worker using workbox
 WHEN I register a service worker
-THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
+THEN I should have static assets pre-cached upon loading along with subsequent pages and static assets
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
@@ -108,9 +108,9 @@ THEN I should have proper build scripts for a webpack application
 
 ## Installation
 
-This application "PWA-JATE" is deployed to is deployed via Heroku (Utilising JawsDB as Database-as-a-service)
+This application is deployed via Heroku (Utilising JawsDB as Database-as-a-service)
 Installation is not required if accessing via the below link:
-<a href="https://huber-tech-blog-ed7fd58460b2.herokuapp.com/"> PWA-JATE(Heroku)" </a>
+<a href="https://huber-tech-blog-ed7fd58460b2.herokuapp.com/"> "PWA-JATE (Heroku)" </a>
 </div>
 </div>
 
@@ -138,10 +138,14 @@ node server.js
 - **Express**: Web application framework for building RESTful APIs.
 - **Mini-CSS-Extract Plugin**: Webpack plugin that extracts CSS into separate files.
 - **Webpack**: Module bundler that helps bundle and manage static assets for web application.
-- **Workbox**: Libraries to build offline-first PWAs in conjunction with Webpack (in service worker generation, caching strategies, and offline support)
-- **Concurrently**: A utility for running multiple processes concurrently, to simultaneously run the client-side and server-side scripts.
-- **IndexedDB**: API for client-side storage, enabling offline functionality and improving performance by reducing the need to fetch data from the server.
-- **Babel**: A JavaScript compiler to transpile modern JavaScript code into a version that is compatible with a wide range of browsers.
+- **Workbox**: Libraries to build offline-first PWAs in conjunction with Webpack
+  - in service worker generation, caching strategies, and offline support
+- **Concurrently**: A utility for running multiple processes concurrently
+  - to simultaneously run the client-side and server-side scripts.
+- **IndexedDB**: API for client-side storage, enabling offline functionality and improving performance
+  - by reducing the need to fetch data from the server.
+- **Babel**: A JavaScript compiler to transpile modern JavaScript code into a version
+  - compatible with a wide range of browsers.
 - **Heroku**: A cloud platform that offers easy deployment and management of web applications.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -162,7 +166,9 @@ node server.js
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This application can be used in conjunction with licensing covered in  <b>MIT Lcensee</b>
+This application can be used in conjunction with licensing covered in  <b>MIT License</b>
+</div>
+</div>
 (Click on the badge for details of the license)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
