@@ -110,7 +110,7 @@ THEN I should have proper build scripts for a webpack application
 
 This application is deployed via Heroku (Utilising JawsDB as Database-as-a-service)
 Installation is not required if accessing via the below link:
-<a href="https://huber-tech-blog-ed7fd58460b2.herokuapp.com/"> "PWA-JATE (Heroku)" </a>
+<a href="https://huber-tech-blog-ed7fd58460b2.herokuapp.com/"> PWA-JATE (Heroku) </a>
 </div>
 </div>
 
