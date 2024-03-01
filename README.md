@@ -42,10 +42,9 @@ The following images show the web application's appearance and functionality:
 
 - [Outcome](#outcome)
 - [Screenshots](#screenshots)
-- [Tasks](#tasks)
 - [User Story](#user-story)
 - [Acceptance Critiera](#acceptance-criteria)
-- [Installation](#installation)
+- [Tasks](#tasks)
 - [Technologies Used](#technologies-used)
 - [Reference](#reference)
 - [License](#license)
@@ -201,12 +200,6 @@ This application can be used in conjunction with licensing covered in  <b>MIT Li
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the functional, deployed application.
-* The URL of the GitHub repository, with a unique name and a README that describes the project.
 ---
 © 2024 Hanbyeol Justin Lee. Confidential and Proprietary. All Rights Reserved.
 
