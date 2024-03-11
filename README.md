@@ -11,7 +11,7 @@
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![Node.js Badge](https://img.shields.io/badge/Node.js-393?style=for-the-badge&logo=nodedotjs&logoColor=fff)](https://nodejs.org/en)
 [![GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/justinsta624/)
-[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
+[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/apps)
 
 
 </div>
@@ -22,7 +22,7 @@
 Followings are the outcomes of the challenge 21:
 
 * The URL of the functional, deployed application </br>
-[Deployed application: NETLIFY](https://drive.google.com/file/d/1DesRcjh71bOVOYdFWXmtrp2ilY5Ni-Oo/view) </br>
+[Deployed application: HEROKU](https://secret-hamlet-53679-494c8fb432be.herokuapp.com/) </br>
 
 * The URL of the GitHub repository, with a unique name and a README that describes the project </br>
 [Repository for this challenge](https://github.com/justinsta624/MERNing365)
@@ -211,7 +211,7 @@ export default defineConfig({
 - **GraphQL**: Query language for APIs and a runtime environment for executing those queries against your data.
 - **Apollo Provider**: Component provided by the Apollo Client library, which is a comprehensive state management library for handling GraphQL data.
 - **Vite**: Build tool and development server for modern web development projects.
-- **Netlify**: Web development platform that provides a variety of services to simplify the process of building, deploying, and managing modern web projects.
+- **Heroku**: A cloud platform that offers easy deployment and management of web applications.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,7 +225,7 @@ export default defineConfig({
 - [GraphQL: Passing Arguments](https://graphql.org/graphql-js/passing-arguments/)
 - [JSON Web Tokens](https://jwt.io/introduction)
 - [Apollo: Authentication and authorization](https://www.apollographql.com/docs/apollo-server/security/authentication/)
-- [Vite Docs on deploying with Netlify](https://vitejs.dev/guide/static-deploy.html#netlify-with-git)
+- [Vite Docs on deploying with Netlify](https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
