@@ -272,7 +272,6 @@ For details click on the following link to go to the "LICENSE" file:
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=mit)](https://opensource.org/licenses/MIT)
 
 ---
-<div align="center">
 © 2024 "HR-Module" by `Project 3` `Group 5`. All Rights Reserved.
 
 
