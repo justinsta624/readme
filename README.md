@@ -65,6 +65,7 @@ The following images show the web application's appearance and functionality:
 - [User Story](#User-Story)
 - [Acceptance Criteria](#Acceptance-Criteria)
 - [Installation](#Installation)
+- [Tasks](#tasks)
 - [Technology Used](#technology-used)
 - [Reference](#Reference)
 - [License](#license)
@@ -102,13 +103,14 @@ THEN I see the calculated budget based on employee salaries within each departme
 WHEN I add a new department, role, or employee
 THEN I am able to input the necessary details to create a new entry in the database
 WHEN I update employee roles or manager assignments
-THEN I can modify the relevant information to reflect accurate responsibilities and reporting structures
+THEN I can modify relevant information to reflect accurate responsibilities and reporting structures
 WHEN I delete a department, role, or employee
 THEN I can efficiently remove the selected entry from the database
 WHEN I interact with the user interface
 THEN I find it intuitive and user-friendly, built using React components
 WHEN I navigate through different views
-THEN I can move seamlessly between dashboard, add employee form, and other sections using routing without the page reloading
+THEN I can move seamlessly between dashboard, add employee form, and other sections using routing
+without the page reloading
 WHEN I perform actions like adding, updating, or deleting data
 THEN I receive confirmation dialogs to ensure intentional actions are taken
 ```
@@ -262,7 +264,6 @@ Followings are the outcomes of the project 3:
 * The URL of the GitHub repository, with a unique name and a README describing the project </br>
 [Repository for this Project](https://github.com/ozdaldogru/HR-Module )
 
-<div align="center">
 
 ## License
 
@@ -271,6 +272,7 @@ For details click on the following link to go to the "LICENSE" file:
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=mit)](https://opensource.org/licenses/MIT)
 
 ---
+<div align="center">
 © 2024 "HR-Module" by `Project 3` `Group 5`. All Rights Reserved.
 
 
