@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# ⭐ Final Project: HR-Module ⭐
+# ⭐ Employee Management System: HR-Module ⭐
 
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/js/)
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
@@ -20,7 +20,7 @@
 </div>
 
 ## Goal of the Project
-* Create the Human Resources module application helps to communicate changes to employment records in Human Resources Records Information System (HRRIS) 
+* Create the robust Human Resources module application helps to communicate, manage, update, and change to employment records in Employee Management System
 
 ### In General
 * Essential role of projects in the journey to becoming a full-stack web developer.
@@ -49,6 +49,14 @@
 ## Screenshots
 
 The following images show the web application's appearance and functionality:
+
+<img width="951" alt="Screenshot 2024-03-21 203856" src="https://github.com/justinsta624/readme/assets/143357899/d806e7bb-a41e-4f5a-81e1-d3d2bf6868f1">
+<img width="952" alt="Screenshot 2024-03-21 203837" src="https://github.com/justinsta624/readme/assets/143357899/413a132d-41cc-4bcd-8077-817913d0dabc">
+<img width="941" alt="Screenshot 2024-03-21 203807" src="https://github.com/justinsta624/readme/assets/143357899/4d0a8157-c712-470a-8d99-e07bf5e2e1f9">
+<img width="940" alt="Screenshot 2024-03-21 203752" src="https://github.com/justinsta624/readme/assets/143357899/dade5994-4568-4c2d-9ceb-93286cfb2cf7">
+<img width="822" alt="Screenshot 2024-03-21 203736" src="https://github.com/justinsta624/readme/assets/143357899/c58b00a3-35f6-41c6-bca0-88bd89456a92">
+<img width="815" alt="Screenshot 2024-03-21 203725" src="https://github.com/justinsta624/readme/assets/143357899/447652a1-bea0-4ce7-8253-a621a0936198">
+<img width="817" alt="Screenshot 2024-03-21 203706" src="https://github.com/justinsta624/readme/assets/143357899/0422674d-ae6b-4a26-9b95-29230519e6f4">
 
 
 <div align="center">
@@ -143,6 +151,7 @@ npm run seed
 7. You can run start the server once packages have been installed and the database is created. Run the below in the CLI:
 ```
 node server.js
+npm run develop
 ```
 
 HR-Module is deployed VIA following link </div>
@@ -153,29 +162,15 @@ HR-Module is deployed VIA following link </div>
 ### In General
 * Create a MERN stack single-page application that works with real-world data to solve a real-world challenge, with a focus on data and user demand.
 * Use React for the front end.
-* Use GraphQL with a Node.js and Express.js server.
+* Use Node.js and Express.js server.
 * Use MySQL2 and the Sequelize for the database.
-* Use queries and mutations for retrieving, adding, updating, and deleting data.
+* Use Axios for retrieving, adding, updating, and deleting data.
 * Be deployed using Heroku (with data).
 * Have a polished UI.
-* Be responsive.
-* Be interactive (i.e., accept and respond to user input).
+* Be responsive & interactive (i.e., accept and respond to user input).
 * Include authentication (JWT).
-* Protect sensitive API key information on the server.
 * Have a clean repository that meets quality coding standards (file structure, naming conventions, best practices for class and id naming conventions, indentation, high-quality comments, etc.).
 * Have a high-quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
-
-### CSS Styling
-* Look into the concept of CSS-in-JS, which abstracts CSS to the component level, using JavaScript to describe styles in a declarative and maintainable way. Some popular libraries include [styled-components](https://styled-components.com/) and [Emotion](https://emotion.sh/docs/introduction).
-* Try using a component library, such as [Semantic UI](https://semantic-ui.com/), [Chakra UI](https://chakra-ui.com/), or [Ant Design](https://ant.design/).
-
-### Payment Platform
-* Integrating the Stripe payment platform. (Even if you don’t create an e-commerce application, you could set up your site to accept charitable donations)
-
-### Progressive Web Application
-* Uses a web manifest
-* Uses a service worker for offline functionality
-* Is installable
 
 ### Vite: Steps to follow
 
@@ -222,8 +217,7 @@ export default defineConfig({
 - **Dotenv**: Utility for loading environment variables.
 - **Nodemon**: Development tool for auto-reloading the server during development.
 - **React**: Open-source JS library used for building user interfaces or UI components, particularly for single-page applications where user interactions are dynamic and frequent.
-- **GraphQL**: Query language for APIs and a runtime environment for executing those queries against your data.
-- **Apollo Provider**: Component provided by the Apollo Client library, which is a comprehensive state management library for handling GraphQL data.
+- **Axios**: Promise-based HTTP client for making HTTP requests in JavaScript environments, including browsers and Node.js, used for performing CRUD operations (Create, Read, Update, Delete) in web applications.
 - **Vite**: Build tool and development server for modern web development projects.
 - **Heroku**: A cloud platform that offers easy deployment and management of web applications.
 
@@ -242,12 +236,9 @@ export default defineConfig({
 - [React Docs: Getting Started](https://react.dev/learn)
 - [Vite Docs: Getting Started](https://vitejs.dev/guide/)
 - [React Docs on JSX](https://react.dev/learn/writing-markup-with-jsx)
-- [Apollo Sandbox](https://www.apollographql.com/docs/graphos/explorer/sandbox/)
-- [GraphQL Queries & Mutations](https://graphql.org/learn/queries/)
-- [GraphQL: Passing Arguments](https://graphql.org/graphql-js/passing-arguments/)
 - [JSON Web Tokens](https://jwt.io/introduction)
-- [Apollo: Authentication and authorization](https://www.apollographql.com/docs/apollo-server/security/authentication/)
-- [Vite Docs on deploying with Netlify](https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql)
+- [How To Use Axios with React](https://www.digitalocean.com/community/tutorials/react-axios-react)
+- [Axios in React: A Guide for Beginners](https://www.geeksforgeeks.org/axios-in-react-a-guide-for-beginners/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -285,11 +276,12 @@ Followings are the outcomes of the project 3:
 
 For details click on the following link to go to the "LICENSE" file:
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=mit)](https://opensource.org/licenses/MIT)
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 © 2024 "HR-Module" by `Project 3` `Group 5`. All Rights Reserved.
-
 
 
 
