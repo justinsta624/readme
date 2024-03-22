@@ -246,10 +246,11 @@ export default defineConfig({
 
 
 ## Collaborators
-[![OzdalDogru](https://img.shields.io/badge/Ozdal-Dogru-blueviolet)](https://github.com/ozdaldogru)
+[![OzdalDogru](https://img.shields.io/badge/Ozdal-Dogru-blueviolet.svg?style=for-the-badge&logo=DOGRU)](https://github.com/ozdaldogru)
 [![AustinGraham](https://img.shields.io/badge/Austin-Graham-red)](https://github.com/kyoriku)
 [![DanNadler](https://img.shields.io/badge/Dan-Nadler-green)](https://github.com/dannadlerp/)
 [![JustinLee](https://img.shields.io/badge/Justin-Lee-magenta)](https://github.com/justinsta624)
+
 
 ## Presentation
 
