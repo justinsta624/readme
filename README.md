@@ -20,7 +20,7 @@
 </div>
 
 ## Goal of the Project
-* Create the robust Human Resources module application helps to communicate, manage, update, and change to employment records in Employee Management System
+* Create the robust "Human Resources Module Application" helps to `communicate` `manage` `update` `change` to employment records in `Employee Management System`
 
 ### In General
 * Essential role of projects in the journey to becoming a full-stack web developer.
@@ -50,14 +50,13 @@
 
 The following images show the web application's appearance and functionality:
 
-<img width="951" alt="Screenshot 2024-03-21 203856" src="https://github.com/justinsta624/readme/assets/143357899/d806e7bb-a41e-4f5a-81e1-d3d2bf6868f1">
-<img width="952" alt="Screenshot 2024-03-21 203837" src="https://github.com/justinsta624/readme/assets/143357899/413a132d-41cc-4bcd-8077-817913d0dabc">
-<img width="941" alt="Screenshot 2024-03-21 203807" src="https://github.com/justinsta624/readme/assets/143357899/4d0a8157-c712-470a-8d99-e07bf5e2e1f9">
-<img width="940" alt="Screenshot 2024-03-21 203752" src="https://github.com/justinsta624/readme/assets/143357899/dade5994-4568-4c2d-9ceb-93286cfb2cf7">
-<img width="822" alt="Screenshot 2024-03-21 203736" src="https://github.com/justinsta624/readme/assets/143357899/c58b00a3-35f6-41c6-bca0-88bd89456a92">
-<img width="815" alt="Screenshot 2024-03-21 203725" src="https://github.com/justinsta624/readme/assets/143357899/447652a1-bea0-4ce7-8253-a621a0936198">
-<img width="817" alt="Screenshot 2024-03-21 203706" src="https://github.com/justinsta624/readme/assets/143357899/0422674d-ae6b-4a26-9b95-29230519e6f4">
-
+<img width="817" alt="Screenshot 2024-03-21 203706" src="https://github.com/justinsta624/readme/assets/143357899/a0266e5f-4d22-4a15-82c0-4b6c40589961">
+<img width="815" alt="Screenshot 2024-03-21 203725" src="https://github.com/justinsta624/readme/assets/143357899/a7086741-1942-443f-9a87-8107e0c252d7">
+<img width="822" alt="Screenshot 2024-03-21 203736" src="https://github.com/justinsta624/readme/assets/143357899/df1bed93-dddf-4e97-a34f-7077ef7769a8">
+<img width="940" alt="Screenshot 2024-03-21 203752" src="https://github.com/justinsta624/readme/assets/143357899/7da5366f-af6b-4561-a5b6-31f2515acc48">
+<img width="941" alt="Screenshot 2024-03-21 203807" src="https://github.com/justinsta624/readme/assets/143357899/1e03d8c1-a196-4561-8808-88049f10a6ba">
+<img width="952" alt="Screenshot 2024-03-21 203837" src="https://github.com/justinsta624/readme/assets/143357899/056b51f5-5863-48ec-8d1f-14f4ed53cd12">
+<img width="951" alt="Screenshot 2024-03-21 203856" src="https://github.com/justinsta624/readme/assets/143357899/e8e95c65-0935-429d-9529-8054819e080a">
 
 <div align="center">
 
@@ -172,7 +171,10 @@ HR-Module is deployed VIA following link </div>
 * Have a clean repository that meets quality coding standards (file structure, naming conventions, best practices for class and id naming conventions, indentation, high-quality comments, etc.).
 * Have a high-quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
 
-### Vite: Steps to follow
+### Vite for React: Steps to follow
+
+* To serve as a tool for quickly setting up and developing modern web applications, like React.
+* Focuses on providing a fast development experience by leveraging ES module imports, pre-bundling dependencies during development, and optimizing build times.
 
 1. In the command line, navigate to the desired parent folder and run `npm create vite@latest`.
 2. Enter the desired name of new project folder.
