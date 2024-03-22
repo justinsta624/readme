@@ -278,7 +278,8 @@ Followings are the outcomes of the project 3:
 
 For details click on the following link to go to the "LICENSE" file:
 
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg?style=for-the-badge&logo=isc)](https://opensource.org/licenses/ISC)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=mit)](https://opensource.org/licenses/MIT)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
